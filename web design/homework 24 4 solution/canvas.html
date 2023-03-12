@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Op Art Canvas</title>
+	<style>
+		canvas {
+			display: block;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			margin: auto;
+			background-color: black;
+		}
+	</style>
+</head>
+<body>
+	<canvas id="myCanvas"></canvas>
+
+	<script>
+		// Get the canvas element and context
+		var canvas = document.getElementById("myCanvas");
+		var ctx = canvas.getContext("2d");
+
+		// Set the canvas dimensions dynamically
+		canvas.width = window.innerWidth;
+		canvas.height = window.innerHeight;
+
+		// Define the variables for the shapes
+		var numRects = 20;
+		var rectWidth = canvas.width / numRects;
+		var rectHeight = canvas.height / numRects;
+
+		// Draw the rectangles in alternating colors to create the Op Art effect
+		for (var i = 0; i < numRects; i++) {
+			for (var j = 0; j < numRects; j++) {
+				if ((i + j) % 2 == 0) {
+					ctx.fillStyle = "white";
+				} else {
+					ctx.fillStyle = "black";
+				}
+				ctx.fillRect(i * rectWidth, j * rectHeight, rectWidth, rectHeight);
+			}
+		}
+	</script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+The getElementById("myButton").onclick method of attaching an event handler to a button is a simple and easy-to-understand way of adding functionality to a button. 
+However, it can become difficult to manage if multiple event handlers are added to the same button, leading to potential conflicts or unexpected behavior. 
+Overall, it can be a useful method for smaller, simpler projects, but other methods such as addEventListener() may be more appropriate for larger or more complex projects.

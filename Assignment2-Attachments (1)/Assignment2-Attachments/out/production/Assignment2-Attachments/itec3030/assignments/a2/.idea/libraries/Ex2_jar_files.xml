@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Ex2 jar files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ex2 jar files/NewTempSensorDriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ex2 jar files/NewTempSensorDevice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

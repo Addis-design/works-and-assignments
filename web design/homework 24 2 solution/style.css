@@ -1,0 +1,32 @@
+  
+body {
+    background: linear-gradient(to bottom, #f2f2f2, #fff);
+  }
+  
+  /* Define a 3-column grid layout */
+  .row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+
+  /* Style the columns */
+  .col-1, .col-2, .col-3 {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Use media queries to change the layout for smaller screens */
+  @media only screen and (max-width: 767px) {
+    /* Use a 1-column layout for phones */
+    .row {
+      grid-template-columns: 1fr;
+    }
+
+    /* Set full width for each column */
+    .col-1, .col-2, .col-3 {
+      width: 100%;
+    }
+  }

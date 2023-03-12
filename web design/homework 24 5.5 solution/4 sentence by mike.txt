@@ -1,0 +1,1 @@
+Mike Bostock referred to Object Constancy as the principle of maintaining visual consistency of objects in data visualizations even as they change, in order to help users quickly identify and understand changes in the data being presented.
