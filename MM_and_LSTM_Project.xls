@@ -1,0 +1,1465 @@
+"Notes"	"State"	"State Code"	"Age Group"	"Age Group Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Deaths
+	"Alabama"	"01"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Alabama"	"01"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Alabama"	"01"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	91
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	106
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	148
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	109
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	151
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	131
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	251
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	130
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	207
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	116
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	319
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	121
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	267
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	340
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	127
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	265
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	97
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	286
+	"Alabama"	"01"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	121
+	"Alabama"	"01"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	287
+	"Alabama"	"01"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Alabama"	"01"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	219
+	"Alaska"	"02"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Alaska"	"02"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Alaska"	"02"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Alaska"	"02"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Alaska"	"02"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Alaska"	"02"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Arizona"	"04"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Arizona"	"04"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Arizona"	"04"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Arizona"	"04"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	65
+	"Arizona"	"04"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Arizona"	"04"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	147
+	"Arizona"	"04"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	160
+	"Arizona"	"04"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Arizona"	"04"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	224
+	"Arizona"	"04"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	212
+	"Arizona"	"04"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Arizona"	"04"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	317
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	21
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	274
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	397
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	334
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	488
+	"Arizona"	"04"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	286
+	"Arizona"	"04"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	427
+	"Arizona"	"04"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Arizona"	"04"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	396
+	"Arizona"	"04"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	415
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	42
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	68
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	108
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	100
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	142
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	145
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	201
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	189
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	237
+	"Arkansas"	"05"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Arkansas"	"05"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	178
+	"Arkansas"	"05"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Arkansas"	"05"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	161
+	"Arkansas"	"05"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Arkansas"	"05"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	187
+	"Arkansas"	"05"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Arkansas"	"05"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	170
+	"California"	"06"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	17
+	"California"	"06"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"California"	"06"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	37
+	"California"	"06"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"California"	"06"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	68
+	"California"	"06"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	89
+	"California"	"06"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18
+	"California"	"06"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"California"	"06"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	140
+	"California"	"06"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20
+	"California"	"06"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"California"	"06"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	245
+	"California"	"06"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	35
+	"California"	"06"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"California"	"06"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	291
+	"California"	"06"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	51
+	"California"	"06"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"California"	"06"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	484
+	"California"	"06"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	69
+	"California"	"06"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	137
+	"California"	"06"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	529
+	"California"	"06"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	69
+	"California"	"06"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	155
+	"California"	"06"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	767
+	"California"	"06"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	79
+	"California"	"06"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	164
+	"California"	"06"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	747
+	"California"	"06"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	123
+	"California"	"06"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	197
+	"California"	"06"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1083
+	"California"	"06"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	107
+	"California"	"06"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"California"	"06"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	986
+	"California"	"06"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	140
+	"California"	"06"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	219
+	"California"	"06"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1445
+	"California"	"06"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	159
+	"California"	"06"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	210
+	"California"	"06"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1307
+	"California"	"06"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	167
+	"California"	"06"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	261
+	"California"	"06"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1810
+	"California"	"06"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	142
+	"California"	"06"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	253
+	"California"	"06"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1511
+	"California"	"06"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	170
+	"California"	"06"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	208
+	"California"	"06"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1969
+	"California"	"06"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	151
+	"California"	"06"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	226
+	"California"	"06"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1556
+	"California"	"06"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	151
+	"California"	"06"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	166
+	"California"	"06"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1862
+	"California"	"06"	"85+ years"	"85+"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	17
+	"California"	"06"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	177
+	"California"	"06"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	224
+	"California"	"06"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1908
+	"California"	"06"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	164
+	"California"	"06"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	174
+	"California"	"06"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1898
+	"Colorado"	"08"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colorado"	"08"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Colorado"	"08"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Colorado"	"08"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	69
+	"Colorado"	"08"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	70
+	"Colorado"	"08"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	121
+	"Colorado"	"08"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Colorado"	"08"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	129
+	"Colorado"	"08"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	153
+	"Colorado"	"08"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	146
+	"Colorado"	"08"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colorado"	"08"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	259
+	"Colorado"	"08"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	219
+	"Colorado"	"08"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	269
+	"Colorado"	"08"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	226
+	"Colorado"	"08"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colorado"	"08"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	316
+	"Colorado"	"08"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colorado"	"08"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	254
+	"Colorado"	"08"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	306
+	"Colorado"	"08"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colorado"	"08"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	284
+	"Colorado"	"08"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	267
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Connecticut"	"09"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	41
+	"Connecticut"	"09"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	88
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	87
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	112
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	116
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	162
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	167
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	192
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	179
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	235
+	"Connecticut"	"09"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Connecticut"	"09"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	251
+	"Connecticut"	"09"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	227
+	"Connecticut"	"09"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Connecticut"	"09"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	359
+	"Connecticut"	"09"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	288
+	"Delaware"	"10"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Delaware"	"10"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Delaware"	"10"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Delaware"	"10"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Delaware"	"10"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Delaware"	"10"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Delaware"	"10"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Delaware"	"10"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	60
+	"Delaware"	"10"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Delaware"	"10"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	54
+	"Delaware"	"10"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	70
+	"Delaware"	"10"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"Delaware"	"10"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	54
+	"District of Columbia"	"11"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"District of Columbia"	"11"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"District of Columbia"	"11"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"District of Columbia"	"11"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"District of Columbia"	"11"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"District of Columbia"	"11"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"District of Columbia"	"11"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"District of Columbia"	"11"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"District of Columbia"	"11"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"District of Columbia"	"11"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"District of Columbia"	"11"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"District of Columbia"	"11"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"District of Columbia"	"11"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"District of Columbia"	"11"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"District of Columbia"	"11"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"District of Columbia"	"11"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Florida"	"12"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Florida"	"12"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Florida"	"12"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	37
+	"Florida"	"12"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Florida"	"12"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	62
+	"Florida"	"12"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Florida"	"12"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	73
+	"Florida"	"12"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"Florida"	"12"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	133
+	"Florida"	"12"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	88
+	"Florida"	"12"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	165
+	"Florida"	"12"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	101
+	"Florida"	"12"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	244
+	"Florida"	"12"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	113
+	"Florida"	"12"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	297
+	"Florida"	"12"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	162
+	"Florida"	"12"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	411
+	"Florida"	"12"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	171
+	"Florida"	"12"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	472
+	"Florida"	"12"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	236
+	"Florida"	"12"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	707
+	"Florida"	"12"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18
+	"Florida"	"12"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	212
+	"Florida"	"12"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	734
+	"Florida"	"12"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	256
+	"Florida"	"12"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	961
+	"Florida"	"12"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	230
+	"Florida"	"12"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	985
+	"Florida"	"12"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	247
+	"Florida"	"12"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1356
+	"Florida"	"12"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	243
+	"Florida"	"12"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1142
+	"Florida"	"12"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"Florida"	"12"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	221
+	"Florida"	"12"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1568
+	"Florida"	"12"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	184
+	"Florida"	"12"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1188
+	"Florida"	"12"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	185
+	"Florida"	"12"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1464
+	"Florida"	"12"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	226
+	"Florida"	"12"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1426
+	"Florida"	"12"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	149
+	"Florida"	"12"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1458
+	"Georgia"	"13"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Georgia"	"13"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	43
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	100
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	94
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	131
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	89
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	155
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	187
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	165
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	192
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	248
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	210
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	219
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	220
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	319
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	219
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	318
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	223
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	451
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	230
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	361
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	194
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	444
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	178
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	377
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	143
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	337
+	"Georgia"	"13"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	213
+	"Georgia"	"13"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	403
+	"Georgia"	"13"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	114
+	"Georgia"	"13"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	319
+	"Hawaii"	"15"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Hawaii"	"15"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	36
+	"Hawaii"	"15"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Hawaii"	"15"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	32
+	"Hawaii"	"15"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	33
+	"Hawaii"	"15"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Hawaii"	"15"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	26
+	"Hawaii"	"15"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	25
+	"Hawaii"	"15"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	34
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	43
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Hawaii"	"15"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	50
+	"Hawaii"	"15"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	56
+	"Hawaii"	"15"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	48
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	45
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Hawaii"	"15"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	49
+	"Hawaii"	"15"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Hawaii"	"15"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	45
+	"Hawaii"	"15"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Idaho"	"16"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Idaho"	"16"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Idaho"	"16"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Idaho"	"16"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Idaho"	"16"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	62
+	"Idaho"	"16"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	59
+	"Idaho"	"16"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Idaho"	"16"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	84
+	"Idaho"	"16"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	110
+	"Idaho"	"16"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	103
+	"Idaho"	"16"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	137
+	"Idaho"	"16"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	101
+	"Idaho"	"16"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	119
+	"Idaho"	"16"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	96
+	"Idaho"	"16"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	121
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	80
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	104
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	55
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	132
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	205
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	96
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	270
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	133
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	252
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	120
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	413
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	175
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	402
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	139
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	517
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	200
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	507
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	162
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	698
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	184
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	658
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	176
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	765
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	174
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	736
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	142
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	717
+	"Illinois"	"17"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	191
+	"Illinois"	"17"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	968
+	"Illinois"	"17"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"Illinois"	"17"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	765
+	"Indiana"	"18"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Indiana"	"18"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	102
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	179
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	188
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	275
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	230
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	384
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	355
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	437
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	361
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	453
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	408
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	470
+	"Indiana"	"18"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Indiana"	"18"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	480
+	"Indiana"	"18"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Indiana"	"18"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	431
+	"Iowa"	"19"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Iowa"	"19"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Iowa"	"19"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Iowa"	"19"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Iowa"	"19"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	81
+	"Iowa"	"19"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	82
+	"Iowa"	"19"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	133
+	"Iowa"	"19"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	123
+	"Iowa"	"19"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	192
+	"Iowa"	"19"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	206
+	"Iowa"	"19"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	247
+	"Iowa"	"19"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	234
+	"Iowa"	"19"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	299
+	"Iowa"	"19"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	293
+	"Iowa"	"19"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	279
+	"Iowa"	"19"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	348
+	"Iowa"	"19"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	253
+	"Kansas"	"20"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Kansas"	"20"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Kansas"	"20"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Kansas"	"20"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Kansas"	"20"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	76
+	"Kansas"	"20"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Kansas"	"20"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	74
+	"Kansas"	"20"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	104
+	"Kansas"	"20"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Kansas"	"20"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	105
+	"Kansas"	"20"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	143
+	"Kansas"	"20"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	165
+	"Kansas"	"20"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Kansas"	"20"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	187
+	"Kansas"	"20"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Kansas"	"20"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	184
+	"Kansas"	"20"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Kansas"	"20"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	222
+	"Kansas"	"20"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Kansas"	"20"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	211
+	"Kansas"	"20"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	213
+	"Kansas"	"20"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Kansas"	"20"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	253
+	"Kansas"	"20"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	249
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	41
+	"Kentucky"	"21"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Kentucky"	"21"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	75
+	"Kentucky"	"21"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	68
+	"Kentucky"	"21"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kentucky"	"21"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	125
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	131
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	198
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	185
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	256
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	227
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	320
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	258
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	337
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	264
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	312
+	"Kentucky"	"21"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Kentucky"	"21"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	303
+	"Kentucky"	"21"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Kentucky"	"21"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	237
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	41
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	54
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	87
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	78
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	97
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	125
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	118
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	128
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	104
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	131
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	158
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	123
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	178
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	161
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	227
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	138
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	206
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	122
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	264
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	119
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	188
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	123
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	215
+	"Louisiana"	"22"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	119
+	"Louisiana"	"22"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	213
+	"Louisiana"	"22"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	83
+	"Louisiana"	"22"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	190
+	"Maine"	"23"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Maine"	"23"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Maine"	"23"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Maine"	"23"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	43
+	"Maine"	"23"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	61
+	"Maine"	"23"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Maine"	"23"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	77
+	"Maine"	"23"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	85
+	"Maine"	"23"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	127
+	"Maine"	"23"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	102
+	"Maine"	"23"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	113
+	"Maine"	"23"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	106
+	"Maine"	"23"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	120
+	"Maine"	"23"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	152
+	"Maine"	"23"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	124
+	"Maryland"	"24"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	30
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	72
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	98
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	66
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	101
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	99
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	126
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	120
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	120
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	148
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	170
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	162
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	166
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	228
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	168
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	200
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	153
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	238
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	161
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	263
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	299
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	134
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	290
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	113
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	300
+	"Maryland"	"24"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	178
+	"Maryland"	"24"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	323
+	"Maryland"	"24"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"Maryland"	"24"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	294
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	95
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	130
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	141
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	176
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	242
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	242
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	340
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	301
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	417
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	402
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	483
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	445
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	457
+	"Massachusetts"	"25"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Massachusetts"	"25"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	630
+	"Massachusetts"	"25"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Massachusetts"	"25"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	487
+	"Michigan"	"26"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Michigan"	"26"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Michigan"	"26"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	45
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	75
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	84
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	136
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	138
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	268
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	111
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	243
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	109
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	426
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	124
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	356
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	136
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	524
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	146
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	505
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	713
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	148
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	587
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	147
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	744
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	141
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	649
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	103
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	751
+	"Michigan"	"26"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	137
+	"Michigan"	"26"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	773
+	"Michigan"	"26"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"Michigan"	"26"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	675
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Minnesota"	"27"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	51
+	"Minnesota"	"27"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	91
+	"Minnesota"	"27"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	104
+	"Minnesota"	"27"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	154
+	"Minnesota"	"27"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	127
+	"Minnesota"	"27"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	203
+	"Minnesota"	"27"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	202
+	"Minnesota"	"27"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	306
+	"Minnesota"	"27"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	251
+	"Minnesota"	"27"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	380
+	"Minnesota"	"27"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	342
+	"Minnesota"	"27"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	413
+	"Minnesota"	"27"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	397
+	"Minnesota"	"27"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	438
+	"Minnesota"	"27"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	486
+	"Minnesota"	"27"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	415
+	"Mississippi"	"28"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Mississippi"	"28"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Mississippi"	"28"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Mississippi"	"28"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Mississippi"	"28"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Mississippi"	"28"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Mississippi"	"28"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Mississippi"	"28"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"Mississippi"	"28"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Mississippi"	"28"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	72
+	"Mississippi"	"28"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Mississippi"	"28"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"Mississippi"	"28"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	95
+	"Mississippi"	"28"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	88
+	"Mississippi"	"28"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Mississippi"	"28"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"Mississippi"	"28"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	104
+	"Mississippi"	"28"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"Mississippi"	"28"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	104
+	"Mississippi"	"28"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	111
+	"Mississippi"	"28"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	150
+	"Mississippi"	"28"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	91
+	"Mississippi"	"28"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	155
+	"Mississippi"	"28"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	81
+	"Mississippi"	"28"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	148
+	"Mississippi"	"28"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"Mississippi"	"28"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	154
+	"Mississippi"	"28"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Mississippi"	"28"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	149
+	"Mississippi"	"28"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	89
+	"Mississippi"	"28"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	114
+	"Mississippi"	"28"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Mississippi"	"28"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	89
+	"Missouri"	"29"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Missouri"	"29"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Missouri"	"29"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	83
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	160
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	143
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	259
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	236
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	350
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	304
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	366
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	64
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	406
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	450
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	394
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	418
+	"Missouri"	"29"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Missouri"	"29"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	425
+	"Missouri"	"29"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Missouri"	"29"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	392
+	"Montana"	"30"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Montana"	"30"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Montana"	"30"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Montana"	"30"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Montana"	"30"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Montana"	"30"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Montana"	"30"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Montana"	"30"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	94
+	"Montana"	"30"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	65
+	"Montana"	"30"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	100
+	"Montana"	"30"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	73
+	"Montana"	"30"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	100
+	"Montana"	"30"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	83
+	"Montana"	"30"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	81
+	"Nebraska"	"31"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Nebraska"	"31"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Nebraska"	"31"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Nebraska"	"31"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Nebraska"	"31"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	65
+	"Nebraska"	"31"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Nebraska"	"31"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	107
+	"Nebraska"	"31"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	91
+	"Nebraska"	"31"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	116
+	"Nebraska"	"31"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	95
+	"Nebraska"	"31"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	120
+	"Nebraska"	"31"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	130
+	"Nebraska"	"31"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	157
+	"Nebraska"	"31"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	176
+	"Nebraska"	"31"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	149
+	"Nevada"	"32"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Nevada"	"32"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Nevada"	"32"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Nevada"	"32"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	60
+	"Nevada"	"32"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Nevada"	"32"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	78
+	"Nevada"	"32"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Nevada"	"32"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	70
+	"Nevada"	"32"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Nevada"	"32"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	124
+	"Nevada"	"32"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	86
+	"Nevada"	"32"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Nevada"	"32"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	161
+	"Nevada"	"32"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	115
+	"Nevada"	"32"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Nevada"	"32"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	146
+	"Nevada"	"32"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	91
+	"Nevada"	"32"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	112
+	"Nevada"	"32"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	111
+	"Nevada"	"32"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	105
+	"New Hampshire"	"33"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"New Hampshire"	"33"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"New Hampshire"	"33"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	54
+	"New Hampshire"	"33"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"New Hampshire"	"33"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	63
+	"New Hampshire"	"33"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	59
+	"New Hampshire"	"33"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	77
+	"New Hampshire"	"33"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	67
+	"New Hampshire"	"33"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	99
+	"New Hampshire"	"33"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	82
+	"New Hampshire"	"33"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	107
+	"New Hampshire"	"33"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	92
+	"New Hampshire"	"33"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	94
+	"New Hampshire"	"33"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	94
+	"New Hampshire"	"33"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	97
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	43
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	68
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	109
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	134
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	182
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	210
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	261
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	96
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	285
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	370
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	116
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	365
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	22
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	96
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	467
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	115
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	518
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	111
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	558
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	126
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	525
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	534
+	"New Jersey"	"34"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	121
+	"New Jersey"	"34"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	652
+	"New Jersey"	"34"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"New Jersey"	"34"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	541
+	"New Mexico"	"35"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"New Mexico"	"35"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	37
+	"New Mexico"	"35"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"New Mexico"	"35"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"New Mexico"	"35"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"New Mexico"	"35"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	85
+	"New Mexico"	"35"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	86
+	"New Mexico"	"35"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	113
+	"New Mexico"	"35"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	91
+	"New Mexico"	"35"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	125
+	"New Mexico"	"35"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	111
+	"New Mexico"	"35"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	130
+	"New Mexico"	"35"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	112
+	"New Mexico"	"35"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	127
+	"New Mexico"	"35"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	94
+	"New Mexico"	"35"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	116
+	"New York"	"36"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"New York"	"36"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"New York"	"36"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"New York"	"36"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	53
+	"New York"	"36"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"New York"	"36"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	65
+	"New York"	"36"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"New York"	"36"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	103
+	"New York"	"36"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	94
+	"New York"	"36"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	173
+	"New York"	"36"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	114
+	"New York"	"36"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	244
+	"New York"	"36"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"New York"	"36"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	264
+	"New York"	"36"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	19
+	"New York"	"36"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	155
+	"New York"	"36"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	363
+	"New York"	"36"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	178
+	"New York"	"36"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	434
+	"New York"	"36"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	24
+	"New York"	"36"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	217
+	"New York"	"36"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	586
+	"New York"	"36"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	24
+	"New York"	"36"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	236
+	"New York"	"36"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	569
+	"New York"	"36"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	27
+	"New York"	"36"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	218
+	"New York"	"36"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	825
+	"New York"	"36"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	28
+	"New York"	"36"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	277
+	"New York"	"36"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	764
+	"New York"	"36"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	26
+	"New York"	"36"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	236
+	"New York"	"36"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	928
+	"New York"	"36"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	26
+	"New York"	"36"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	285
+	"New York"	"36"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	885
+	"New York"	"36"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	25
+	"New York"	"36"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	200
+	"New York"	"36"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1032
+	"New York"	"36"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21
+	"New York"	"36"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	217
+	"New York"	"36"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1032
+	"New York"	"36"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	22
+	"New York"	"36"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	150
+	"New York"	"36"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1049
+	"New York"	"36"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21
+	"New York"	"36"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	254
+	"New York"	"36"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1332
+	"New York"	"36"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	28
+	"New York"	"36"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"New York"	"36"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1092
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	47
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	76
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	107
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	133
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	117
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	183
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	154
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	191
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	162
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	274
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	180
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	334
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	213
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	397
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	200
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	454
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	222
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	555
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	223
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	522
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	180
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	583
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	204
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	531
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	179
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	545
+	"North Carolina"	"37"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	260
+	"North Carolina"	"37"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	601
+	"North Carolina"	"37"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	133
+	"North Carolina"	"37"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	465
+	"North Dakota"	"38"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"North Dakota"	"38"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"North Dakota"	"38"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"North Dakota"	"38"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"North Dakota"	"38"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"North Dakota"	"38"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"North Dakota"	"38"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"North Dakota"	"38"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"North Dakota"	"38"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	55
+	"North Dakota"	"38"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"North Dakota"	"38"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	66
+	"North Dakota"	"38"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	65
+	"North Dakota"	"38"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	78
+	"North Dakota"	"38"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Ohio"	"39"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Ohio"	"39"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	47
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	54
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	81
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	135
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	211
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	73
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	208
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	301
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	322
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	115
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	495
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	507
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	139
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	625
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	145
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	607
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	150
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	770
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	143
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	763
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	147
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	835
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	156
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	811
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	119
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	774
+	"Ohio"	"39"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	136
+	"Ohio"	"39"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	943
+	"Ohio"	"39"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	119
+	"Ohio"	"39"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	766
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Oklahoma"	"40"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Oklahoma"	"40"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	55
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	73
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	143
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	147
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	16
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	208
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	18
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	184
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	233
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	211
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	24
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	289
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	220
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	245
+	"Oklahoma"	"40"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Oklahoma"	"40"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	222
+	"Oklahoma"	"40"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	206
+	"Oregon"	"41"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Oregon"	"41"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Oregon"	"41"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Oregon"	"41"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	87
+	"Oregon"	"41"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	106
+	"Oregon"	"41"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	110
+	"Oregon"	"41"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	177
+	"Oregon"	"41"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	173
+	"Oregon"	"41"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	227
+	"Oregon"	"41"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	205
+	"Oregon"	"41"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	321
+	"Oregon"	"41"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	268
+	"Oregon"	"41"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	344
+	"Oregon"	"41"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	277
+	"Oregon"	"41"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	334
+	"Oregon"	"41"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	325
+	"Oregon"	"41"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	333
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	32
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	41
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	68
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	101
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	106
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	191
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	211
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	317
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	120
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	344
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	88
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	481
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	103
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	479
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	647
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	158
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	771
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	915
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	170
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	909
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	998
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	976
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	101
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1030
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	162
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1164
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	954
+	"Rhode Island"	"44"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Rhode Island"	"44"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Rhode Island"	"44"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Rhode Island"	"44"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Rhode Island"	"44"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Rhode Island"	"44"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Rhode Island"	"44"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Rhode Island"	"44"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Rhode Island"	"44"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	60
+	"Rhode Island"	"44"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	71
+	"Rhode Island"	"44"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Rhode Island"	"44"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	75
+	"Rhode Island"	"44"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	67
+	"Rhode Island"	"44"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	107
+	"Rhode Island"	"44"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	72
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	53
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	64
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	97
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	111
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	111
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	101
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	150
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	136
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	159
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	123
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	225
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	137
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	199
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	155
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	274
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	161
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	262
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	110
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	296
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	244
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	109
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	248
+	"South Carolina"	"45"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	135
+	"South Carolina"	"45"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	260
+	"South Carolina"	"45"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"South Carolina"	"45"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	260
+	"South Dakota"	"46"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"South Dakota"	"46"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"South Dakota"	"46"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"South Dakota"	"46"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"South Dakota"	"46"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"South Dakota"	"46"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"South Dakota"	"46"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"South Dakota"	"46"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	67
+	"South Dakota"	"46"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"South Dakota"	"46"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	69
+	"South Dakota"	"46"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	65
+	"South Dakota"	"46"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	90
+	"South Dakota"	"46"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	116
+	"South Dakota"	"46"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	85
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	37
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	65
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	88
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	119
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	173
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	69
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	164
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	266
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	265
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	375
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	316
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	484
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	371
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	107
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	484
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	78
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	375
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	415
+	"Tennessee"	"47"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"Tennessee"	"47"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	412
+	"Tennessee"	"47"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Tennessee"	"47"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	342
+	"Texas"	"48"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	30
+	"Texas"	"48"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Texas"	"48"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Texas"	"48"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	78
+	"Texas"	"48"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Texas"	"48"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	103
+	"Texas"	"48"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Texas"	"48"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	150
+	"Texas"	"48"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	94
+	"Texas"	"48"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	166
+	"Texas"	"48"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	95
+	"Texas"	"48"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	319
+	"Texas"	"48"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	131
+	"Texas"	"48"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	358
+	"Texas"	"48"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"Texas"	"48"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	164
+	"Texas"	"48"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	566
+	"Texas"	"48"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18
+	"Texas"	"48"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	182
+	"Texas"	"48"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	547
+	"Texas"	"48"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20
+	"Texas"	"48"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	181
+	"Texas"	"48"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	768
+	"Texas"	"48"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21
+	"Texas"	"48"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	192
+	"Texas"	"48"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	725
+	"Texas"	"48"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20
+	"Texas"	"48"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	225
+	"Texas"	"48"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	966
+	"Texas"	"48"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17
+	"Texas"	"48"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	213
+	"Texas"	"48"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	904
+	"Texas"	"48"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	18
+	"Texas"	"48"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	240
+	"Texas"	"48"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1220
+	"Texas"	"48"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Texas"	"48"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	242
+	"Texas"	"48"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1042
+	"Texas"	"48"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	21
+	"Texas"	"48"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	223
+	"Texas"	"48"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1346
+	"Texas"	"48"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	215
+	"Texas"	"48"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1075
+	"Texas"	"48"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	18
+	"Texas"	"48"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	164
+	"Texas"	"48"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1068
+	"Texas"	"48"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Texas"	"48"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	234
+	"Texas"	"48"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1192
+	"Texas"	"48"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	132
+	"Texas"	"48"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1020
+	"Utah"	"49"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Utah"	"49"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Utah"	"49"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Utah"	"49"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Utah"	"49"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	52
+	"Utah"	"49"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	75
+	"Utah"	"49"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	71
+	"Utah"	"49"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	125
+	"Utah"	"49"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Utah"	"49"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	138
+	"Utah"	"49"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	134
+	"Utah"	"49"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	177
+	"Utah"	"49"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	99
+	"Utah"	"49"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	163
+	"Utah"	"49"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	135
+	"Utah"	"49"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	135
+	"Vermont"	"50"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Vermont"	"50"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Vermont"	"50"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Vermont"	"50"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Vermont"	"50"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Vermont"	"50"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Vermont"	"50"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Vermont"	"50"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Vermont"	"50"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Vermont"	"50"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Vermont"	"50"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	50
+	"Vermont"	"50"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Vermont"	"50"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	53
+	"Vermont"	"50"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Virginia"	"51"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	41
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	67
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	114
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	108
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	115
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	165
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	101
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	167
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	119
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	244
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	121
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	256
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	144
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	356
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	173
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	312
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	154
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	425
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	165
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	344
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	169
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	461
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	156
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	399
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	399
+	"Virginia"	"51"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	181
+	"Virginia"	"51"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	466
+	"Virginia"	"51"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	115
+	"Virginia"	"51"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	409
+	"Washington"	"53"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Washington"	"53"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"Washington"	"53"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	69
+	"Washington"	"53"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	68
+	"Washington"	"53"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	100
+	"Washington"	"53"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Washington"	"53"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	158
+	"Washington"	"53"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Washington"	"53"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	160
+	"Washington"	"53"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	260
+	"Washington"	"53"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	228
+	"Washington"	"53"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Washington"	"53"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	354
+	"Washington"	"53"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	327
+	"Washington"	"53"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Washington"	"53"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	458
+	"Washington"	"53"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	26
+	"Washington"	"53"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	371
+	"Washington"	"53"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"Washington"	"53"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Washington"	"53"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	503
+	"Washington"	"53"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Washington"	"53"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	361
+	"Washington"	"53"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	487
+	"Washington"	"53"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17
+	"Washington"	"53"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	490
+	"Washington"	"53"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	452
+	"West Virginia"	"54"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"West Virginia"	"54"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	43
+	"West Virginia"	"54"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"West Virginia"	"54"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"West Virginia"	"54"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	76
+	"West Virginia"	"54"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	98
+	"West Virginia"	"54"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	84
+	"West Virginia"	"54"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	131
+	"West Virginia"	"54"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	166
+	"West Virginia"	"54"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	169
+	"West Virginia"	"54"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	137
+	"West Virginia"	"54"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	191
+	"West Virginia"	"54"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	140
+	"West Virginia"	"54"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	154
+	"West Virginia"	"54"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	154
+	"West Virginia"	"54"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	121
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	70
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	104
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	133
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	176
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	216
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	205
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	306
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	310
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	421
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	336
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	462
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	410
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	454
+	"Wisconsin"	"55"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Wisconsin"	"55"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	549
+	"Wisconsin"	"55"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Wisconsin"	"55"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	480
+	"Wyoming"	"56"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Wyoming"	"56"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Wyoming"	"56"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Wyoming"	"56"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Wyoming"	"56"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Wyoming"	"56"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Wyoming"	"56"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Wyoming"	"56"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Wyoming"	"56"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	30
+	"Wyoming"	"56"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Wyoming"	"56"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Wyoming"	"56"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Mortality"
+"Query Parameters:"
+"Cancer Sites: Myeloma"
+"Group By: State; Age Group; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancermort-v2021.html for more information."
+"---"
+"Query Date: Mar 3, 2025 6:57:47 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2024. Accessed at"
+"http://wonder.cdc.gov/cancermort-v2021.html on Mar 3, 2025 6:57:47 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/cancermort-v2021.html#Suppressed."
+"2. Age-adjusted rates are not available when results are grouped by age."
+"3. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"4. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
