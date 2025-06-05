@@ -1,0 +1,906 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Age Group"	"Age Group Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Deaths
+	"Alabama"	"01"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Arizona"	"04"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Arizona"	"04"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Arizona"	"04"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Arizona"	"04"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Arizona"	"04"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Arizona"	"04"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Arizona"	"04"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Arizona"	"04"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Arizona"	"04"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Arizona"	"04"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Arizona"	"04"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Arizona"	"04"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Arizona"	"04"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Arizona"	"04"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Arizona"	"04"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Arizona"	"04"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Arizona"	"04"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Arizona"	"04"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"California"	"06"	"2016"	"2016"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	34
+	"California"	"06"	"2016"	"2016"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"California"	"06"	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"California"	"06"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"California"	"06"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	53
+	"California"	"06"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"California"	"06"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"California"	"06"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	77
+	"California"	"06"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"California"	"06"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	73
+	"California"	"06"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	62
+	"California"	"06"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	81
+	"California"	"06"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	55
+	"California"	"06"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	81
+	"California"	"06"	"2017"	"2017"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"California"	"06"	"2017"	"2017"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"California"	"06"	"2017"	"2017"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"California"	"06"	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"California"	"06"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"California"	"06"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"California"	"06"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"California"	"06"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"California"	"06"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"California"	"06"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	80
+	"California"	"06"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"California"	"06"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	18
+	"California"	"06"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	100
+	"California"	"06"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	54
+	"California"	"06"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	69
+	"California"	"06"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"California"	"06"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	79
+	"California"	"06"	"2018"	"2018"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"California"	"06"	"2018"	"2018"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"California"	"06"	"2018"	"2018"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"California"	"06"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"California"	"06"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"California"	"06"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	58
+	"California"	"06"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"California"	"06"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	92
+	"California"	"06"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	49
+	"California"	"06"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	86
+	"California"	"06"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"California"	"06"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	78
+	"California"	"06"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	67
+	"California"	"06"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	79
+	"California"	"06"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"California"	"06"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"California"	"06"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"California"	"06"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"California"	"06"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"California"	"06"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"California"	"06"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	65
+	"California"	"06"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"California"	"06"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"California"	"06"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"California"	"06"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"California"	"06"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"California"	"06"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	56
+	"California"	"06"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	16
+	"California"	"06"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	87
+	"California"	"06"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	80
+	"California"	"06"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	85
+	"California"	"06"	"2020"	"2020"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"California"	"06"	"2020"	"2020"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"California"	"06"	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"California"	"06"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"California"	"06"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"California"	"06"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	67
+	"California"	"06"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"California"	"06"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20
+	"California"	"06"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"California"	"06"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"California"	"06"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	87
+	"California"	"06"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	65
+	"California"	"06"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	68
+	"California"	"06"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	79
+	"California"	"06"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Colorado"	"08"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Colorado"	"08"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Colorado"	"08"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Colorado"	"08"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Colorado"	"08"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Connecticut"	"09"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Florida"	"12"	"2016"	"2016"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Florida"	"12"	"2016"	"2016"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Florida"	"12"	"2016"	"2016"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Florida"	"12"	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Florida"	"12"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Florida"	"12"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Florida"	"12"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	65
+	"Florida"	"12"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Florida"	"12"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	81
+	"Florida"	"12"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Florida"	"12"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Florida"	"12"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Florida"	"12"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Florida"	"12"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Florida"	"12"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	71
+	"Florida"	"12"	"2017"	"2017"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Florida"	"12"	"2017"	"2017"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Florida"	"12"	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Florida"	"12"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Florida"	"12"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Florida"	"12"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Florida"	"12"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	48
+	"Florida"	"12"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Florida"	"12"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Florida"	"12"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	90
+	"Florida"	"12"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Florida"	"12"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	59
+	"Florida"	"12"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	68
+	"Florida"	"12"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	61
+	"Florida"	"12"	"2018"	"2018"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Florida"	"12"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Florida"	"12"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Florida"	"12"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Florida"	"12"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Florida"	"12"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"Florida"	"12"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Florida"	"12"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	79
+	"Florida"	"12"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	52
+	"Florida"	"12"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	83
+	"Florida"	"12"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	60
+	"Florida"	"12"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	74
+	"Florida"	"12"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Florida"	"12"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Florida"	"12"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"Florida"	"12"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Florida"	"12"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Florida"	"12"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	58
+	"Florida"	"12"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Florida"	"12"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	95
+	"Florida"	"12"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Florida"	"12"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	82
+	"Florida"	"12"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Florida"	"12"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	78
+	"Florida"	"12"	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Florida"	"12"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Florida"	"12"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Florida"	"12"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Florida"	"12"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Florida"	"12"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	87
+	"Florida"	"12"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Florida"	"12"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	93
+	"Florida"	"12"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	57
+	"Florida"	"12"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	79
+	"Florida"	"12"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"Florida"	"12"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	73
+	"Georgia"	"13"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Georgia"	"13"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Georgia"	"13"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Georgia"	"13"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Georgia"	"13"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Georgia"	"13"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Georgia"	"13"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Georgia"	"13"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Georgia"	"13"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Georgia"	"13"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Georgia"	"13"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Georgia"	"13"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Georgia"	"13"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Georgia"	"13"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Georgia"	"13"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Georgia"	"13"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Georgia"	"13"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Georgia"	"13"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Georgia"	"13"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Illinois"	"17"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Illinois"	"17"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Illinois"	"17"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Illinois"	"17"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Illinois"	"17"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Illinois"	"17"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Illinois"	"17"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Illinois"	"17"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Illinois"	"17"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Illinois"	"17"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Illinois"	"17"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Illinois"	"17"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Illinois"	"17"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Illinois"	"17"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Illinois"	"17"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Illinois"	"17"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Illinois"	"17"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Illinois"	"17"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Illinois"	"17"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Illinois"	"17"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Illinois"	"17"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Illinois"	"17"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Illinois"	"17"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Illinois"	"17"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Illinois"	"17"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Illinois"	"17"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Illinois"	"17"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Illinois"	"17"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Illinois"	"17"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Illinois"	"17"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Illinois"	"17"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Illinois"	"17"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Illinois"	"17"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Illinois"	"17"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Illinois"	"17"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Illinois"	"17"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Illinois"	"17"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Illinois"	"17"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Illinois"	"17"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Illinois"	"17"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Illinois"	"17"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Illinois"	"17"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Illinois"	"17"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Illinois"	"17"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Illinois"	"17"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Illinois"	"17"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Illinois"	"17"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Illinois"	"17"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Illinois"	"17"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Illinois"	"17"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Illinois"	"17"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Indiana"	"18"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Indiana"	"18"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Indiana"	"18"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Indiana"	"18"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Indiana"	"18"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Indiana"	"18"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Indiana"	"18"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Indiana"	"18"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Indiana"	"18"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Indiana"	"18"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Indiana"	"18"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Indiana"	"18"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Indiana"	"18"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Indiana"	"18"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Indiana"	"18"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Indiana"	"18"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Indiana"	"18"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Indiana"	"18"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Indiana"	"18"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Indiana"	"18"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Indiana"	"18"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Indiana"	"18"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Iowa"	"19"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Iowa"	"19"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Iowa"	"19"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Iowa"	"19"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Iowa"	"19"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Kansas"	"20"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Kansas"	"20"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Kentucky"	"21"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Kentucky"	"21"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Kentucky"	"21"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Kentucky"	"21"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Kentucky"	"21"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Kentucky"	"21"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Maryland"	"24"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Maryland"	"24"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Maryland"	"24"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Massachusetts"	"25"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Massachusetts"	"25"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Massachusetts"	"25"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Massachusetts"	"25"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Massachusetts"	"25"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Massachusetts"	"25"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Massachusetts"	"25"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Massachusetts"	"25"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Massachusetts"	"25"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Massachusetts"	"25"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Massachusetts"	"25"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Massachusetts"	"25"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Massachusetts"	"25"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Massachusetts"	"25"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Massachusetts"	"25"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Massachusetts"	"25"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Massachusetts"	"25"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Massachusetts"	"25"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Massachusetts"	"25"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Massachusetts"	"25"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Massachusetts"	"25"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Massachusetts"	"25"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Massachusetts"	"25"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Massachusetts"	"25"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Massachusetts"	"25"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Massachusetts"	"25"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Massachusetts"	"25"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Massachusetts"	"25"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Massachusetts"	"25"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Michigan"	"26"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Michigan"	"26"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Michigan"	"26"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	44
+	"Michigan"	"26"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Michigan"	"26"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Michigan"	"26"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Michigan"	"26"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Michigan"	"26"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Michigan"	"26"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Michigan"	"26"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Michigan"	"26"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Michigan"	"26"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Michigan"	"26"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Michigan"	"26"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Michigan"	"26"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Michigan"	"26"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Michigan"	"26"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Michigan"	"26"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Michigan"	"26"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Michigan"	"26"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Michigan"	"26"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Michigan"	"26"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Michigan"	"26"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Michigan"	"26"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Michigan"	"26"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Michigan"	"26"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Michigan"	"26"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Michigan"	"26"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Michigan"	"26"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Michigan"	"26"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Michigan"	"26"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Michigan"	"26"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Michigan"	"26"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Michigan"	"26"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Michigan"	"26"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Michigan"	"26"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Michigan"	"26"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Michigan"	"26"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Michigan"	"26"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	60
+	"Michigan"	"26"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Michigan"	"26"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Michigan"	"26"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Michigan"	"26"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Minnesota"	"27"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Minnesota"	"27"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Minnesota"	"27"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Minnesota"	"27"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Minnesota"	"27"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Minnesota"	"27"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Minnesota"	"27"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Minnesota"	"27"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Minnesota"	"27"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Minnesota"	"27"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Minnesota"	"27"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Minnesota"	"27"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Minnesota"	"27"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Minnesota"	"27"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Minnesota"	"27"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Minnesota"	"27"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Minnesota"	"27"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Minnesota"	"27"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Minnesota"	"27"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Minnesota"	"27"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Minnesota"	"27"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Minnesota"	"27"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Missouri"	"29"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Missouri"	"29"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Missouri"	"29"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Missouri"	"29"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Missouri"	"29"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Missouri"	"29"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Missouri"	"29"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Missouri"	"29"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Missouri"	"29"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Missouri"	"29"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Missouri"	"29"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Missouri"	"29"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Missouri"	"29"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Missouri"	"29"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Missouri"	"29"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Missouri"	"29"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Missouri"	"29"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Missouri"	"29"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Missouri"	"29"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Missouri"	"29"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Missouri"	"29"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"New Jersey"	"34"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"New Jersey"	"34"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"New Jersey"	"34"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"New Jersey"	"34"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"New Jersey"	"34"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"New Jersey"	"34"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"New Jersey"	"34"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"New Jersey"	"34"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"New Jersey"	"34"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"New Jersey"	"34"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"New Jersey"	"34"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"New Jersey"	"34"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"New Jersey"	"34"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"New Jersey"	"34"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"New Jersey"	"34"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"New Jersey"	"34"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"New Jersey"	"34"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"New Jersey"	"34"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"New Jersey"	"34"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"New Jersey"	"34"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"New Jersey"	"34"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"New Jersey"	"34"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"New Jersey"	"34"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"New Jersey"	"34"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"New Jersey"	"34"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"New Jersey"	"34"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"New Jersey"	"34"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"New Jersey"	"34"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"New Jersey"	"34"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"New Jersey"	"34"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"New Jersey"	"34"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"New Jersey"	"34"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"New Jersey"	"34"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"New York"	"36"	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"New York"	"36"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"New York"	"36"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"New York"	"36"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"New York"	"36"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"New York"	"36"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"New York"	"36"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"New York"	"36"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"New York"	"36"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"New York"	"36"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	58
+	"New York"	"36"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"New York"	"36"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"New York"	"36"	"2017"	"2017"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"New York"	"36"	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"New York"	"36"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"New York"	"36"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"New York"	"36"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"New York"	"36"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"New York"	"36"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"New York"	"36"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"New York"	"36"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	55
+	"New York"	"36"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"New York"	"36"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"New York"	"36"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"New York"	"36"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	51
+	"New York"	"36"	"2018"	"2018"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"New York"	"36"	"2018"	"2018"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"New York"	"36"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"New York"	"36"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"New York"	"36"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"New York"	"36"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"New York"	"36"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"New York"	"36"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"New York"	"36"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"New York"	"36"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"New York"	"36"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"New York"	"36"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"New York"	"36"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	62
+	"New York"	"36"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"New York"	"36"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"New York"	"36"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"New York"	"36"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"New York"	"36"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"New York"	"36"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"New York"	"36"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"New York"	"36"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"New York"	"36"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	67
+	"New York"	"36"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"New York"	"36"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	51
+	"New York"	"36"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"New York"	"36"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"New York"	"36"	"2020"	"2020"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"New York"	"36"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"New York"	"36"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"New York"	"36"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"New York"	"36"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"New York"	"36"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"New York"	"36"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"New York"	"36"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"New York"	"36"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"New York"	"36"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"New York"	"36"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"New York"	"36"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"North Carolina"	"37"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"North Carolina"	"37"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"North Carolina"	"37"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"North Carolina"	"37"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"North Carolina"	"37"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"North Carolina"	"37"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"North Carolina"	"37"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"North Carolina"	"37"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"North Carolina"	"37"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"North Carolina"	"37"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"North Carolina"	"37"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"North Carolina"	"37"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"North Carolina"	"37"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"North Carolina"	"37"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"North Carolina"	"37"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"North Carolina"	"37"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"North Carolina"	"37"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"North Carolina"	"37"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"North Carolina"	"37"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"North Carolina"	"37"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"North Carolina"	"37"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"North Carolina"	"37"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"North Carolina"	"37"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"North Carolina"	"37"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"North Carolina"	"37"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"North Carolina"	"37"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"North Carolina"	"37"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"North Carolina"	"37"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"North Carolina"	"37"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"North Carolina"	"37"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"North Carolina"	"37"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"North Carolina"	"37"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"North Carolina"	"37"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"North Carolina"	"37"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"North Carolina"	"37"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"North Carolina"	"37"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"North Carolina"	"37"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"North Carolina"	"37"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"North Carolina"	"37"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"North Carolina"	"37"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"North Carolina"	"37"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"North Carolina"	"37"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"North Carolina"	"37"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Ohio"	"39"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Ohio"	"39"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Ohio"	"39"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Ohio"	"39"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Ohio"	"39"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Ohio"	"39"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Ohio"	"39"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Ohio"	"39"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Ohio"	"39"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Ohio"	"39"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Ohio"	"39"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Ohio"	"39"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Ohio"	"39"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Ohio"	"39"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Ohio"	"39"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Ohio"	"39"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Ohio"	"39"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Ohio"	"39"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Ohio"	"39"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Ohio"	"39"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Ohio"	"39"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Ohio"	"39"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ohio"	"39"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Ohio"	"39"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Ohio"	"39"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Ohio"	"39"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Ohio"	"39"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Ohio"	"39"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Ohio"	"39"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Ohio"	"39"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Ohio"	"39"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Ohio"	"39"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Ohio"	"39"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Ohio"	"39"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Ohio"	"39"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Ohio"	"39"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Ohio"	"39"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Ohio"	"39"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Ohio"	"39"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	46
+	"Ohio"	"39"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Ohio"	"39"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Ohio"	"39"	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Ohio"	"39"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Ohio"	"39"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Ohio"	"39"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Ohio"	"39"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Ohio"	"39"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Ohio"	"39"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Ohio"	"39"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Ohio"	"39"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Ohio"	"39"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	46
+	"Ohio"	"39"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Ohio"	"39"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Oregon"	"41"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Oregon"	"41"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Oregon"	"41"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Oregon"	"41"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Oregon"	"41"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Oregon"	"41"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Oregon"	"41"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Oregon"	"41"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Oregon"	"41"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Oregon"	"41"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Pennsylvania"	"42"	"2016"	"2016"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Pennsylvania"	"42"	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Pennsylvania"	"42"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Pennsylvania"	"42"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Pennsylvania"	"42"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Pennsylvania"	"42"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Pennsylvania"	"42"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Pennsylvania"	"42"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Pennsylvania"	"42"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Pennsylvania"	"42"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Pennsylvania"	"42"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Pennsylvania"	"42"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	38
+	"Pennsylvania"	"42"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Pennsylvania"	"42"	"2017"	"2017"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Pennsylvania"	"42"	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Pennsylvania"	"42"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Pennsylvania"	"42"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Pennsylvania"	"42"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Pennsylvania"	"42"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Pennsylvania"	"42"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Pennsylvania"	"42"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Pennsylvania"	"42"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Pennsylvania"	"42"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Pennsylvania"	"42"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Pennsylvania"	"42"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Pennsylvania"	"42"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Pennsylvania"	"42"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Pennsylvania"	"42"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Pennsylvania"	"42"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Pennsylvania"	"42"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Pennsylvania"	"42"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Pennsylvania"	"42"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Pennsylvania"	"42"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Pennsylvania"	"42"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Pennsylvania"	"42"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Pennsylvania"	"42"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Pennsylvania"	"42"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Pennsylvania"	"42"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Pennsylvania"	"42"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Pennsylvania"	"42"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Pennsylvania"	"42"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Pennsylvania"	"42"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	45
+	"Pennsylvania"	"42"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Pennsylvania"	"42"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"Pennsylvania"	"42"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Pennsylvania"	"42"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Pennsylvania"	"42"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Pennsylvania"	"42"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Pennsylvania"	"42"	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Pennsylvania"	"42"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Pennsylvania"	"42"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Pennsylvania"	"42"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Pennsylvania"	"42"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Pennsylvania"	"42"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Pennsylvania"	"42"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Pennsylvania"	"42"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Pennsylvania"	"42"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Pennsylvania"	"42"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Pennsylvania"	"42"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"South Carolina"	"45"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"South Carolina"	"45"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"South Carolina"	"45"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"South Carolina"	"45"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"South Carolina"	"45"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"South Carolina"	"45"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"South Carolina"	"45"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"South Carolina"	"45"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Tennessee"	"47"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Tennessee"	"47"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Tennessee"	"47"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Tennessee"	"47"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Tennessee"	"47"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Tennessee"	"47"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Tennessee"	"47"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Tennessee"	"47"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Tennessee"	"47"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Tennessee"	"47"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Tennessee"	"47"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Tennessee"	"47"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Tennessee"	"47"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Tennessee"	"47"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Tennessee"	"47"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Texas"	"48"	"2016"	"2016"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Texas"	"48"	"2016"	"2016"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Texas"	"48"	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Texas"	"48"	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Texas"	"48"	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Texas"	"48"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Texas"	"48"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Texas"	"48"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Texas"	"48"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	57
+	"Texas"	"48"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Texas"	"48"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Texas"	"48"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Texas"	"48"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Texas"	"48"	"2017"	"2017"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Texas"	"48"	"2017"	"2017"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Texas"	"48"	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Texas"	"48"	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Texas"	"48"	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Texas"	"48"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Texas"	"48"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Texas"	"48"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Texas"	"48"	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Texas"	"48"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	55
+	"Texas"	"48"	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Texas"	"48"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Texas"	"48"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	54
+	"Texas"	"48"	"2018"	"2018"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Texas"	"48"	"2018"	"2018"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Texas"	"48"	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Texas"	"48"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Texas"	"48"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Texas"	"48"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Texas"	"48"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	70
+	"Texas"	"48"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Texas"	"48"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Texas"	"48"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Texas"	"48"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Texas"	"48"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Texas"	"48"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Texas"	"48"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Texas"	"48"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Texas"	"48"	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Texas"	"48"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Texas"	"48"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	68
+	"Texas"	"48"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Texas"	"48"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"Texas"	"48"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Texas"	"48"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Texas"	"48"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Texas"	"48"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	57
+	"Texas"	"48"	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Texas"	"48"	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Texas"	"48"	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Texas"	"48"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Texas"	"48"	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Texas"	"48"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Texas"	"48"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Texas"	"48"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Texas"	"48"	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Texas"	"48"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Texas"	"48"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Texas"	"48"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Virginia"	"51"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Virginia"	"51"	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Virginia"	"51"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Virginia"	"51"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Virginia"	"51"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Virginia"	"51"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Virginia"	"51"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Virginia"	"51"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Virginia"	"51"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Virginia"	"51"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Virginia"	"51"	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Virginia"	"51"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Virginia"	"51"	"2018"	"2018"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Virginia"	"51"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Virginia"	"51"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Virginia"	"51"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Virginia"	"51"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Virginia"	"51"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Virginia"	"51"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Virginia"	"51"	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Virginia"	"51"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Virginia"	"51"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Virginia"	"51"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Washington"	"53"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Washington"	"53"	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Washington"	"53"	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Washington"	"53"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Washington"	"53"	"2016"	"2016"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Washington"	"53"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Washington"	"53"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Washington"	"53"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Washington"	"53"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Washington"	"53"	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Washington"	"53"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Washington"	"53"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Washington"	"53"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Washington"	"53"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Washington"	"53"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Washington"	"53"	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Washington"	"53"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Washington"	"53"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Washington"	"53"	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Washington"	"53"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Washington"	"53"	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Washington"	"53"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Washington"	"53"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Washington"	"53"	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Washington"	"53"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Washington"	"53"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Wisconsin"	"55"	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Wisconsin"	"55"	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2016"	"2016"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Wisconsin"	"55"	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Wisconsin"	"55"	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Wisconsin"	"55"	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Wisconsin"	"55"	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Wisconsin"	"55"	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Wisconsin"	"55"	"2017"	"2017"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Wisconsin"	"55"	"2017"	"2017"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Wisconsin"	"55"	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Wisconsin"	"55"	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Wisconsin"	"55"	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Wisconsin"	"55"	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2018"	"2018"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Wisconsin"	"55"	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Wisconsin"	"55"	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Wisconsin"	"55"	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Wisconsin"	"55"	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Wisconsin"	"55"	"2019"	"2019"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Wisconsin"	"55"	"2019"	"2019"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Wisconsin"	"55"	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Wisconsin"	"55"	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Wisconsin"	"55"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Wisconsin"	"55"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Mortality"
+"Query Parameters:"
+"Age Group: 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years; 50-54 years; 55-59 years;"
+"60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years; 85+ years"
+"Cancer Sites: Acute Myeloid Leukemia"
+"Year: 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Year; Age Group; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancermort-v2021.html for more information."
+"---"
+"Query Date: Mar 28, 2025 8:18:09 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2024. Accessed at"
+"http://wonder.cdc.gov/cancermort-v2021.html on Mar 28, 2025 8:18:09 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/cancermort-v2021.html#Suppressed."
+"2. Age-adjusted rates are not available when results are grouped by age."
+"3. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"4. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

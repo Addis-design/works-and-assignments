@@ -1,0 +1,1986 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Age Group"	"Age Group Code"	"Sex"	"Sex Code"	"Ethnicity"	"Ethnicity Code"	Deaths
+	"Alabama"	"01"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Alabama"	"01"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Alabama"	"01"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Alabama"	"01"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Alabama"	"01"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Alabama"	"01"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Alabama"	"01"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Alabama"	"01"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Alabama"	"01"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Alabama"	"01"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Alabama"	"01"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Alabama"	"01"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Alabama"	"01"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Alabama"	"01"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Alabama"	"01"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Alabama"	"01"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Alabama"	"01"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Alabama"	"01"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Alabama"	"01"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Alabama"	"01"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Alabama"	"01"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Alabama"	"01"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Alabama"	"01"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Alabama"	"01"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Alabama"	"01"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Alabama"	"01"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Alabama"	"01"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Alabama"	"01"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Alabama"	"01"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Alabama"	"01"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Alabama"	"01"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Alabama"	"01"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Alabama"	"01"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Alabama"	"01"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Alabama"	"01"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Alabama"	"01"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Alabama"	"01"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Alabama"	"01"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Alabama"	"01"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Alabama"	"01"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Alabama"	"01"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Alabama"	"01"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Alabama"	"01"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Alabama"	"01"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Alabama"	"01"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Alabama"	"01"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Arizona"	"04"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Arizona"	"04"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Arizona"	"04"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Arizona"	"04"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Arizona"	"04"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Arizona"	"04"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Arizona"	"04"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Arizona"	"04"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Arizona"	"04"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Arizona"	"04"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Arizona"	"04"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"Arizona"	"04"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Arizona"	"04"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Arizona"	"04"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Arizona"	"04"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Arizona"	"04"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Arizona"	"04"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Arizona"	"04"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Arizona"	"04"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Arizona"	"04"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Arizona"	"04"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Arizona"	"04"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Arizona"	"04"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Arizona"	"04"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Arizona"	"04"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Arizona"	"04"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Arizona"	"04"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Arizona"	"04"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Arizona"	"04"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Arizona"	"04"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Arizona"	"04"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Arizona"	"04"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Arizona"	"04"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Arizona"	"04"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Arizona"	"04"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Arizona"	"04"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Arizona"	"04"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Arizona"	"04"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	57
+	"Arizona"	"04"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Arizona"	"04"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Arizona"	"04"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Arizona"	"04"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Arizona"	"04"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Arizona"	"04"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Arizona"	"04"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Arizona"	"04"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Arizona"	"04"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Arizona"	"04"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"Arizona"	"04"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Arkansas"	"05"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Arkansas"	"05"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Arkansas"	"05"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Arkansas"	"05"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Arkansas"	"05"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Arkansas"	"05"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Arkansas"	"05"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Arkansas"	"05"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Arkansas"	"05"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Arkansas"	"05"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Arkansas"	"05"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Arkansas"	"05"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Arkansas"	"05"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Arkansas"	"05"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Arkansas"	"05"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Arkansas"	"05"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Arkansas"	"05"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Arkansas"	"05"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Arkansas"	"05"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Arkansas"	"05"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Arkansas"	"05"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"California"	"06"	"2011"	"2011"	"40-44 years"	"40-44"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"California"	"06"	"2011"	"2011"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"California"	"06"	"2011"	"2011"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"California"	"06"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"California"	"06"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"California"	"06"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	66
+	"California"	"06"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Hispanic"	"2135-2"	20
+	"California"	"06"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	71
+	"California"	"06"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	32
+	"California"	"06"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	100
+	"California"	"06"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	24
+	"California"	"06"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	67
+	"California"	"06"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	28
+	"California"	"06"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	96
+	"California"	"06"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	66
+	"California"	"06"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	113
+	"California"	"06"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	29
+	"California"	"06"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	106
+	"California"	"06"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	32
+	"California"	"06"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	141
+	"California"	"06"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	33
+	"California"	"06"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	131
+	"California"	"06"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	29
+	"California"	"06"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	168
+	"California"	"06"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	27
+	"California"	"06"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	199
+	"California"	"06"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"California"	"06"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	188
+	"California"	"06"	"2012"	"2012"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"California"	"06"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"California"	"06"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"California"	"06"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"California"	"06"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"California"	"06"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	74
+	"California"	"06"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"California"	"06"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	97
+	"California"	"06"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	85
+	"California"	"06"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	33
+	"California"	"06"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	115
+	"California"	"06"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	24
+	"California"	"06"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	85
+	"California"	"06"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	26
+	"California"	"06"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	130
+	"California"	"06"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	157
+	"California"	"06"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	28
+	"California"	"06"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	157
+	"California"	"06"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	28
+	"California"	"06"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	264
+	"California"	"06"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	205
+	"California"	"06"	"2013"	"2013"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"California"	"06"	"2013"	"2013"	"50-54 years"	"50-54"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"California"	"06"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"California"	"06"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"California"	"06"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"California"	"06"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	105
+	"California"	"06"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	19
+	"California"	"06"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"California"	"06"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	25
+	"California"	"06"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	93
+	"California"	"06"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	77
+	"California"	"06"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	31
+	"California"	"06"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	120
+	"California"	"06"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	24
+	"California"	"06"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	103
+	"California"	"06"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	128
+	"California"	"06"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	121
+	"California"	"06"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	27
+	"California"	"06"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	160
+	"California"	"06"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	32
+	"California"	"06"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	199
+	"California"	"06"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	35
+	"California"	"06"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	212
+	"California"	"06"	"2014"	"2014"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"California"	"06"	"2014"	"2014"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"California"	"06"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"California"	"06"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"California"	"06"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"California"	"06"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"California"	"06"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	32
+	"California"	"06"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	76
+	"California"	"06"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	80
+	"California"	"06"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	114
+	"California"	"06"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	34
+	"California"	"06"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	105
+	"California"	"06"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	37
+	"California"	"06"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	105
+	"California"	"06"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	35
+	"California"	"06"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	102
+	"California"	"06"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	28
+	"California"	"06"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	149
+	"California"	"06"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	32
+	"California"	"06"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	139
+	"California"	"06"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"California"	"06"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	178
+	"California"	"06"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	36
+	"California"	"06"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	200
+	"California"	"06"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	26
+	"California"	"06"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	202
+	"California"	"06"	"2015"	"2015"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"California"	"06"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"California"	"06"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"California"	"06"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"California"	"06"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"California"	"06"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"California"	"06"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"California"	"06"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	29
+	"California"	"06"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	99
+	"California"	"06"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	21
+	"California"	"06"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	68
+	"California"	"06"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	30
+	"California"	"06"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	119
+	"California"	"06"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	98
+	"California"	"06"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	34
+	"California"	"06"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	138
+	"California"	"06"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	30
+	"California"	"06"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	124
+	"California"	"06"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	29
+	"California"	"06"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	112
+	"California"	"06"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"California"	"06"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	130
+	"California"	"06"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	30
+	"California"	"06"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	151
+	"California"	"06"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	36
+	"California"	"06"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	233
+	"California"	"06"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	31
+	"California"	"06"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	209
+	"Colorado"	"08"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Colorado"	"08"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Colorado"	"08"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Colorado"	"08"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Colorado"	"08"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Colorado"	"08"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Colorado"	"08"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Colorado"	"08"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Colorado"	"08"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Colorado"	"08"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Colorado"	"08"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Colorado"	"08"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Colorado"	"08"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Colorado"	"08"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Colorado"	"08"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Colorado"	"08"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Colorado"	"08"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Colorado"	"08"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Colorado"	"08"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Colorado"	"08"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Colorado"	"08"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Colorado"	"08"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Colorado"	"08"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Colorado"	"08"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Colorado"	"08"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Colorado"	"08"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Connecticut"	"09"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Connecticut"	"09"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Connecticut"	"09"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Connecticut"	"09"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Connecticut"	"09"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Connecticut"	"09"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Connecticut"	"09"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Connecticut"	"09"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Connecticut"	"09"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Connecticut"	"09"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Connecticut"	"09"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Connecticut"	"09"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Connecticut"	"09"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Connecticut"	"09"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Connecticut"	"09"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	44
+	"Connecticut"	"09"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Connecticut"	"09"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Connecticut"	"09"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Connecticut"	"09"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Connecticut"	"09"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Connecticut"	"09"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Connecticut"	"09"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Connecticut"	"09"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Connecticut"	"09"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Connecticut"	"09"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Connecticut"	"09"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Connecticut"	"09"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Florida"	"12"	"2011"	"2011"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Florida"	"12"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Florida"	"12"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Florida"	"12"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Florida"	"12"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Florida"	"12"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Florida"	"12"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	86
+	"Florida"	"12"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Florida"	"12"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	89
+	"Florida"	"12"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	17
+	"Florida"	"12"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"Florida"	"12"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Florida"	"12"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	124
+	"Florida"	"12"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	95
+	"Florida"	"12"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	19
+	"Florida"	"12"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	126
+	"Florida"	"12"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	131
+	"Florida"	"12"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	120
+	"Florida"	"12"	"2012"	"2012"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Florida"	"12"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Florida"	"12"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Florida"	"12"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Florida"	"12"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Florida"	"12"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	61
+	"Florida"	"12"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Florida"	"12"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Florida"	"12"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	19
+	"Florida"	"12"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	72
+	"Florida"	"12"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	93
+	"Florida"	"12"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	70
+	"Florida"	"12"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Florida"	"12"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	117
+	"Florida"	"12"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"Florida"	"12"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	85
+	"Florida"	"12"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"Florida"	"12"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	129
+	"Florida"	"12"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	168
+	"Florida"	"12"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	149
+	"Florida"	"12"	"2013"	"2013"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Florida"	"12"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Florida"	"12"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Florida"	"12"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Florida"	"12"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"Florida"	"12"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	58
+	"Florida"	"12"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Florida"	"12"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"Florida"	"12"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	55
+	"Florida"	"12"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	17
+	"Florida"	"12"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	120
+	"Florida"	"12"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	78
+	"Florida"	"12"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"Florida"	"12"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	113
+	"Florida"	"12"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	17
+	"Florida"	"12"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	91
+	"Florida"	"12"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"Florida"	"12"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	125
+	"Florida"	"12"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"Florida"	"12"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	182
+	"Florida"	"12"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	148
+	"Florida"	"12"	"2014"	"2014"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Florida"	"12"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Florida"	"12"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Florida"	"12"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Florida"	"12"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Florida"	"12"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	69
+	"Florida"	"12"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Florida"	"12"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	86
+	"Florida"	"12"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"Florida"	"12"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Florida"	"12"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	98
+	"Florida"	"12"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	71
+	"Florida"	"12"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	26
+	"Florida"	"12"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	103
+	"Florida"	"12"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	17
+	"Florida"	"12"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	93
+	"Florida"	"12"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	17
+	"Florida"	"12"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	126
+	"Florida"	"12"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"Florida"	"12"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	167
+	"Florida"	"12"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	128
+	"Florida"	"12"	"2015"	"2015"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Florida"	"12"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Florida"	"12"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Florida"	"12"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"Florida"	"12"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Florida"	"12"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	58
+	"Florida"	"12"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"Florida"	"12"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Florida"	"12"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	93
+	"Florida"	"12"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Florida"	"12"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	104
+	"Florida"	"12"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	80
+	"Florida"	"12"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	21
+	"Florida"	"12"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	112
+	"Florida"	"12"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	97
+	"Florida"	"12"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	121
+	"Florida"	"12"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"Florida"	"12"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	190
+	"Florida"	"12"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Florida"	"12"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	162
+	"Georgia"	"13"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Georgia"	"13"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Georgia"	"13"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Georgia"	"13"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Georgia"	"13"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Georgia"	"13"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Georgia"	"13"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Georgia"	"13"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Georgia"	"13"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Georgia"	"13"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Georgia"	"13"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Georgia"	"13"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Georgia"	"13"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Georgia"	"13"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Georgia"	"13"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Georgia"	"13"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Georgia"	"13"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Georgia"	"13"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Georgia"	"13"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Georgia"	"13"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Georgia"	"13"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Georgia"	"13"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Georgia"	"13"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Georgia"	"13"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Georgia"	"13"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Georgia"	"13"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Georgia"	"13"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Georgia"	"13"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Georgia"	"13"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Georgia"	"13"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Georgia"	"13"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Georgia"	"13"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Georgia"	"13"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Georgia"	"13"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Georgia"	"13"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Georgia"	"13"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Georgia"	"13"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Georgia"	"13"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Georgia"	"13"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Georgia"	"13"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Georgia"	"13"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Georgia"	"13"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Georgia"	"13"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Georgia"	"13"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Georgia"	"13"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Georgia"	"13"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Georgia"	"13"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Georgia"	"13"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Georgia"	"13"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Georgia"	"13"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Georgia"	"13"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Georgia"	"13"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Georgia"	"13"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Georgia"	"13"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Georgia"	"13"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Georgia"	"13"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Georgia"	"13"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Georgia"	"13"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Georgia"	"13"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Georgia"	"13"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Georgia"	"13"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Georgia"	"13"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	48
+	"Georgia"	"13"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Georgia"	"13"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Georgia"	"13"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	57
+	"Georgia"	"13"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Hawaii"	"15"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Hawaii"	"15"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Idaho"	"16"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Illinois"	"17"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Illinois"	"17"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Illinois"	"17"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Illinois"	"17"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Illinois"	"17"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Illinois"	"17"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Illinois"	"17"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Illinois"	"17"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Illinois"	"17"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	70
+	"Illinois"	"17"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	81
+	"Illinois"	"17"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	77
+	"Illinois"	"17"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	103
+	"Illinois"	"17"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	90
+	"Illinois"	"17"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Illinois"	"17"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Illinois"	"17"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Illinois"	"17"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Illinois"	"17"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Illinois"	"17"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Illinois"	"17"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Illinois"	"17"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Illinois"	"17"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"Illinois"	"17"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	57
+	"Illinois"	"17"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	63
+	"Illinois"	"17"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"Illinois"	"17"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"Illinois"	"17"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	97
+	"Illinois"	"17"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	82
+	"Illinois"	"17"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Illinois"	"17"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Illinois"	"17"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Illinois"	"17"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Illinois"	"17"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Illinois"	"17"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Illinois"	"17"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	60
+	"Illinois"	"17"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	53
+	"Illinois"	"17"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	55
+	"Illinois"	"17"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	65
+	"Illinois"	"17"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	69
+	"Illinois"	"17"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	129
+	"Illinois"	"17"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	90
+	"Illinois"	"17"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Illinois"	"17"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Illinois"	"17"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Illinois"	"17"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Illinois"	"17"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Illinois"	"17"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Illinois"	"17"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	59
+	"Illinois"	"17"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	54
+	"Illinois"	"17"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	78
+	"Illinois"	"17"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	64
+	"Illinois"	"17"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	59
+	"Illinois"	"17"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	113
+	"Illinois"	"17"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	90
+	"Illinois"	"17"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Illinois"	"17"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Illinois"	"17"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Illinois"	"17"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Illinois"	"17"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Illinois"	"17"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	60
+	"Illinois"	"17"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Illinois"	"17"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Illinois"	"17"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Illinois"	"17"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	61
+	"Illinois"	"17"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Illinois"	"17"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Illinois"	"17"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	110
+	"Illinois"	"17"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	96
+	"Indiana"	"18"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Indiana"	"18"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Indiana"	"18"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Indiana"	"18"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Indiana"	"18"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Indiana"	"18"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Indiana"	"18"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Indiana"	"18"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Indiana"	"18"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Indiana"	"18"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Indiana"	"18"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"Indiana"	"18"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Indiana"	"18"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Indiana"	"18"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Indiana"	"18"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Indiana"	"18"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Indiana"	"18"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Indiana"	"18"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Indiana"	"18"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Indiana"	"18"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Indiana"	"18"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Indiana"	"18"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Indiana"	"18"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Indiana"	"18"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Indiana"	"18"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Indiana"	"18"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Indiana"	"18"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Indiana"	"18"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Indiana"	"18"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Indiana"	"18"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Indiana"	"18"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Indiana"	"18"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Indiana"	"18"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Indiana"	"18"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Indiana"	"18"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Indiana"	"18"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	53
+	"Indiana"	"18"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Indiana"	"18"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Indiana"	"18"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Indiana"	"18"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Indiana"	"18"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Indiana"	"18"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Indiana"	"18"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Indiana"	"18"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Indiana"	"18"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Indiana"	"18"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Indiana"	"18"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Indiana"	"18"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Indiana"	"18"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Indiana"	"18"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Indiana"	"18"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Indiana"	"18"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Indiana"	"18"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Indiana"	"18"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Indiana"	"18"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Indiana"	"18"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Indiana"	"18"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Indiana"	"18"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Indiana"	"18"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Indiana"	"18"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Indiana"	"18"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	56
+	"Indiana"	"18"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Iowa"	"19"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Iowa"	"19"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Iowa"	"19"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Iowa"	"19"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Iowa"	"19"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Iowa"	"19"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Iowa"	"19"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Iowa"	"19"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Iowa"	"19"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Iowa"	"19"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Iowa"	"19"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Iowa"	"19"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Iowa"	"19"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Iowa"	"19"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Iowa"	"19"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Iowa"	"19"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Iowa"	"19"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Iowa"	"19"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Iowa"	"19"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Iowa"	"19"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Iowa"	"19"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Iowa"	"19"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Iowa"	"19"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Iowa"	"19"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Iowa"	"19"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Iowa"	"19"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Iowa"	"19"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Iowa"	"19"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Iowa"	"19"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Iowa"	"19"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Iowa"	"19"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Iowa"	"19"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Iowa"	"19"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Iowa"	"19"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"Iowa"	"19"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Kansas"	"20"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Kansas"	"20"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Kansas"	"20"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Kansas"	"20"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Kansas"	"20"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Kansas"	"20"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Kansas"	"20"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Kansas"	"20"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Kansas"	"20"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Kansas"	"20"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Kansas"	"20"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Kansas"	"20"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Kansas"	"20"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kansas"	"20"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Kansas"	"20"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Kansas"	"20"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Kansas"	"20"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Kansas"	"20"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Kansas"	"20"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Kansas"	"20"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kansas"	"20"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Kansas"	"20"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Kentucky"	"21"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kentucky"	"21"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Kentucky"	"21"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kentucky"	"21"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Kentucky"	"21"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kentucky"	"21"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Kentucky"	"21"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Kentucky"	"21"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Kentucky"	"21"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Kentucky"	"21"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Kentucky"	"21"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Kentucky"	"21"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Kentucky"	"21"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Kentucky"	"21"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Kentucky"	"21"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Kentucky"	"21"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Kentucky"	"21"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Kentucky"	"21"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Kentucky"	"21"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Kentucky"	"21"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Kentucky"	"21"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Kentucky"	"21"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Kentucky"	"21"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Kentucky"	"21"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Kentucky"	"21"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Kentucky"	"21"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Kentucky"	"21"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Kentucky"	"21"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Kentucky"	"21"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Kentucky"	"21"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Kentucky"	"21"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Kentucky"	"21"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Kentucky"	"21"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Kentucky"	"21"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Kentucky"	"21"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Kentucky"	"21"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Kentucky"	"21"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Kentucky"	"21"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Kentucky"	"21"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Kentucky"	"21"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Kentucky"	"21"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Kentucky"	"21"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Kentucky"	"21"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Kentucky"	"21"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Kentucky"	"21"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Kentucky"	"21"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Kentucky"	"21"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Kentucky"	"21"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Kentucky"	"21"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Kentucky"	"21"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Kentucky"	"21"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Kentucky"	"21"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Louisiana"	"22"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Louisiana"	"22"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Louisiana"	"22"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Louisiana"	"22"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Louisiana"	"22"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Louisiana"	"22"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Louisiana"	"22"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Louisiana"	"22"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Louisiana"	"22"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Louisiana"	"22"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Louisiana"	"22"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Louisiana"	"22"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Louisiana"	"22"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Louisiana"	"22"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Louisiana"	"22"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Louisiana"	"22"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Louisiana"	"22"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Louisiana"	"22"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Louisiana"	"22"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Louisiana"	"22"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Louisiana"	"22"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Louisiana"	"22"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Louisiana"	"22"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Louisiana"	"22"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Louisiana"	"22"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Louisiana"	"22"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Louisiana"	"22"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Louisiana"	"22"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Louisiana"	"22"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Louisiana"	"22"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Louisiana"	"22"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Louisiana"	"22"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Louisiana"	"22"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Louisiana"	"22"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Louisiana"	"22"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Louisiana"	"22"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Louisiana"	"22"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Louisiana"	"22"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Louisiana"	"22"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Louisiana"	"22"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Louisiana"	"22"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Louisiana"	"22"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Louisiana"	"22"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Louisiana"	"22"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Louisiana"	"22"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Louisiana"	"22"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Maine"	"23"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Maine"	"23"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Maine"	"23"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Maryland"	"24"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Maryland"	"24"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Maryland"	"24"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Maryland"	"24"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Maryland"	"24"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Maryland"	"24"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Maryland"	"24"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Maryland"	"24"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Maryland"	"24"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Maryland"	"24"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Maryland"	"24"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Maryland"	"24"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Maryland"	"24"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Maryland"	"24"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Maryland"	"24"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Maryland"	"24"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Maryland"	"24"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Maryland"	"24"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Maryland"	"24"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Maryland"	"24"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Maryland"	"24"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Maryland"	"24"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Maryland"	"24"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Maryland"	"24"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Maryland"	"24"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Maryland"	"24"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Maryland"	"24"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Maryland"	"24"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Maryland"	"24"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Maryland"	"24"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Maryland"	"24"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Maryland"	"24"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Maryland"	"24"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Maryland"	"24"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Maryland"	"24"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Maryland"	"24"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Maryland"	"24"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Maryland"	"24"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Maryland"	"24"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Maryland"	"24"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Maryland"	"24"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Maryland"	"24"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Massachusetts"	"25"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Massachusetts"	"25"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Massachusetts"	"25"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Massachusetts"	"25"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Massachusetts"	"25"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Massachusetts"	"25"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Massachusetts"	"25"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Massachusetts"	"25"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Massachusetts"	"25"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	69
+	"Massachusetts"	"25"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Massachusetts"	"25"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Massachusetts"	"25"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Massachusetts"	"25"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Massachusetts"	"25"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Massachusetts"	"25"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Massachusetts"	"25"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Massachusetts"	"25"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Massachusetts"	"25"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Massachusetts"	"25"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Massachusetts"	"25"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	62
+	"Massachusetts"	"25"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"Massachusetts"	"25"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Massachusetts"	"25"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Massachusetts"	"25"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Massachusetts"	"25"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Massachusetts"	"25"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Massachusetts"	"25"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Massachusetts"	"25"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Massachusetts"	"25"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Massachusetts"	"25"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Massachusetts"	"25"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	75
+	"Massachusetts"	"25"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Massachusetts"	"25"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Massachusetts"	"25"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Massachusetts"	"25"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Massachusetts"	"25"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Massachusetts"	"25"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Massachusetts"	"25"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Massachusetts"	"25"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Massachusetts"	"25"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Massachusetts"	"25"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Massachusetts"	"25"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	68
+	"Massachusetts"	"25"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"Massachusetts"	"25"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Massachusetts"	"25"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Massachusetts"	"25"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Massachusetts"	"25"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Massachusetts"	"25"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Massachusetts"	"25"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Massachusetts"	"25"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	66
+	"Massachusetts"	"25"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Michigan"	"26"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Michigan"	"26"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Michigan"	"26"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Michigan"	"26"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Michigan"	"26"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Michigan"	"26"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Michigan"	"26"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Michigan"	"26"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	55
+	"Michigan"	"26"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	54
+	"Michigan"	"26"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"Michigan"	"26"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Michigan"	"26"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	71
+	"Michigan"	"26"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	101
+	"Michigan"	"26"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	61
+	"Michigan"	"26"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Michigan"	"26"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Michigan"	"26"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Michigan"	"26"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Michigan"	"26"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Michigan"	"26"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Michigan"	"26"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Michigan"	"26"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Michigan"	"26"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	67
+	"Michigan"	"26"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Michigan"	"26"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	74
+	"Michigan"	"26"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	57
+	"Michigan"	"26"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	76
+	"Michigan"	"26"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	106
+	"Michigan"	"26"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	85
+	"Michigan"	"26"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Michigan"	"26"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Michigan"	"26"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Michigan"	"26"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Michigan"	"26"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Michigan"	"26"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Michigan"	"26"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Michigan"	"26"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Michigan"	"26"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Michigan"	"26"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	55
+	"Michigan"	"26"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	61
+	"Michigan"	"26"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	50
+	"Michigan"	"26"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	62
+	"Michigan"	"26"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"Michigan"	"26"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	81
+	"Michigan"	"26"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Michigan"	"26"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Michigan"	"26"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Michigan"	"26"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Michigan"	"26"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Michigan"	"26"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Michigan"	"26"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Michigan"	"26"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Michigan"	"26"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	67
+	"Michigan"	"26"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	56
+	"Michigan"	"26"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	55
+	"Michigan"	"26"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Michigan"	"26"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	65
+	"Michigan"	"26"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	105
+	"Michigan"	"26"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Michigan"	"26"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Michigan"	"26"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Michigan"	"26"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Michigan"	"26"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Michigan"	"26"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Michigan"	"26"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	59
+	"Michigan"	"26"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Michigan"	"26"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Michigan"	"26"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	44
+	"Michigan"	"26"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"Michigan"	"26"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	55
+	"Michigan"	"26"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"Michigan"	"26"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	84
+	"Michigan"	"26"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"Minnesota"	"27"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Minnesota"	"27"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Minnesota"	"27"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Minnesota"	"27"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Minnesota"	"27"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Minnesota"	"27"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Minnesota"	"27"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Minnesota"	"27"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"Minnesota"	"27"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Minnesota"	"27"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Minnesota"	"27"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Minnesota"	"27"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Minnesota"	"27"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Minnesota"	"27"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Minnesota"	"27"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Minnesota"	"27"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Minnesota"	"27"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Minnesota"	"27"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Minnesota"	"27"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Minnesota"	"27"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	68
+	"Minnesota"	"27"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Minnesota"	"27"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Minnesota"	"27"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Minnesota"	"27"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Minnesota"	"27"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Minnesota"	"27"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Minnesota"	"27"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Minnesota"	"27"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Minnesota"	"27"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Minnesota"	"27"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Minnesota"	"27"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Minnesota"	"27"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Minnesota"	"27"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Minnesota"	"27"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Minnesota"	"27"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Minnesota"	"27"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Minnesota"	"27"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Minnesota"	"27"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Minnesota"	"27"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Minnesota"	"27"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Minnesota"	"27"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Minnesota"	"27"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Minnesota"	"27"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Minnesota"	"27"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Minnesota"	"27"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Minnesota"	"27"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Minnesota"	"27"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Minnesota"	"27"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Minnesota"	"27"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Mississippi"	"28"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Mississippi"	"28"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Mississippi"	"28"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Mississippi"	"28"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Mississippi"	"28"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Mississippi"	"28"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Mississippi"	"28"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Mississippi"	"28"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Mississippi"	"28"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Mississippi"	"28"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Mississippi"	"28"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Mississippi"	"28"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Missouri"	"29"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Missouri"	"29"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Missouri"	"29"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Missouri"	"29"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Missouri"	"29"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Missouri"	"29"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Missouri"	"29"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Missouri"	"29"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Missouri"	"29"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"Missouri"	"29"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Missouri"	"29"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Missouri"	"29"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Missouri"	"29"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Missouri"	"29"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Missouri"	"29"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Missouri"	"29"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Missouri"	"29"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Missouri"	"29"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Missouri"	"29"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Missouri"	"29"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Missouri"	"29"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Missouri"	"29"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Missouri"	"29"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Missouri"	"29"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Missouri"	"29"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Missouri"	"29"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Missouri"	"29"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Missouri"	"29"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Missouri"	"29"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Missouri"	"29"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Missouri"	"29"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Missouri"	"29"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Missouri"	"29"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Missouri"	"29"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Missouri"	"29"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Missouri"	"29"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Missouri"	"29"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Missouri"	"29"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Missouri"	"29"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Missouri"	"29"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Missouri"	"29"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Missouri"	"29"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	55
+	"Missouri"	"29"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Missouri"	"29"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Missouri"	"29"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Missouri"	"29"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Missouri"	"29"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Missouri"	"29"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Missouri"	"29"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Missouri"	"29"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Missouri"	"29"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Missouri"	"29"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Missouri"	"29"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Missouri"	"29"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Missouri"	"29"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Nebraska"	"31"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Nebraska"	"31"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Nebraska"	"31"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Nebraska"	"31"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Nebraska"	"31"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Nebraska"	"31"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Nebraska"	"31"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Nebraska"	"31"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Nevada"	"32"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Nevada"	"32"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"New Jersey"	"34"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"New Jersey"	"34"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"New Jersey"	"34"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"New Jersey"	"34"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"New Jersey"	"34"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"New Jersey"	"34"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"New Jersey"	"34"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"New Jersey"	"34"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"New Jersey"	"34"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	52
+	"New Jersey"	"34"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"New Jersey"	"34"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	81
+	"New Jersey"	"34"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	62
+	"New Jersey"	"34"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"New Jersey"	"34"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"New Jersey"	"34"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"New Jersey"	"34"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"New Jersey"	"34"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"New Jersey"	"34"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"New Jersey"	"34"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"New Jersey"	"34"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"New Jersey"	"34"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"New Jersey"	"34"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	55
+	"New Jersey"	"34"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"New Jersey"	"34"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"New Jersey"	"34"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"New Jersey"	"34"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"New Jersey"	"34"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"New Jersey"	"34"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"New Jersey"	"34"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"New Jersey"	"34"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"New Jersey"	"34"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"New Jersey"	"34"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"New Jersey"	"34"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"New Jersey"	"34"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"New Jersey"	"34"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	67
+	"New Jersey"	"34"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"New Jersey"	"34"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"New Jersey"	"34"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"New Jersey"	"34"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"New Jersey"	"34"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"New Jersey"	"34"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"New Jersey"	"34"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"New Jersey"	"34"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"New Jersey"	"34"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"New Jersey"	"34"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"New Jersey"	"34"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"New Jersey"	"34"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	73
+	"New Jersey"	"34"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"New Jersey"	"34"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"New Jersey"	"34"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"New Jersey"	"34"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"New Jersey"	"34"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"New Jersey"	"34"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"New Jersey"	"34"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"New Jersey"	"34"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	48
+	"New Jersey"	"34"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"New Jersey"	"34"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	55
+	"New Jersey"	"34"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	69
+	"New Jersey"	"34"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	74
+	"New York"	"36"	"2011"	"2011"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"New York"	"36"	"2011"	"2011"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"New York"	"36"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"New York"	"36"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"New York"	"36"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"New York"	"36"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"New York"	"36"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	73
+	"New York"	"36"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"New York"	"36"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"New York"	"36"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"New York"	"36"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	65
+	"New York"	"36"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	84
+	"New York"	"36"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	100
+	"New York"	"36"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	84
+	"New York"	"36"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	85
+	"New York"	"36"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	152
+	"New York"	"36"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	116
+	"New York"	"36"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"New York"	"36"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"New York"	"36"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"New York"	"36"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"New York"	"36"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"New York"	"36"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"New York"	"36"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"New York"	"36"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"New York"	"36"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"New York"	"36"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	69
+	"New York"	"36"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	91
+	"New York"	"36"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	97
+	"New York"	"36"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	126
+	"New York"	"36"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	163
+	"New York"	"36"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	108
+	"New York"	"36"	"2013"	"2013"	"45-49 years"	"45-49"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"New York"	"36"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"New York"	"36"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"New York"	"36"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"New York"	"36"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"New York"	"36"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	58
+	"New York"	"36"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"New York"	"36"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	60
+	"New York"	"36"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"New York"	"36"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	91
+	"New York"	"36"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	65
+	"New York"	"36"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	78
+	"New York"	"36"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	96
+	"New York"	"36"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	106
+	"New York"	"36"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	166
+	"New York"	"36"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	97
+	"New York"	"36"	"2014"	"2014"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"New York"	"36"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"New York"	"36"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"New York"	"36"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"New York"	"36"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"New York"	"36"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"New York"	"36"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"New York"	"36"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	80
+	"New York"	"36"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	59
+	"New York"	"36"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	66
+	"New York"	"36"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	67
+	"New York"	"36"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	91
+	"New York"	"36"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	89
+	"New York"	"36"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	103
+	"New York"	"36"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	180
+	"New York"	"36"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	136
+	"New York"	"36"	"2015"	"2015"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"New York"	"36"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"New York"	"36"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"New York"	"36"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"New York"	"36"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"New York"	"36"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	65
+	"New York"	"36"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"New York"	"36"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	58
+	"New York"	"36"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	52
+	"New York"	"36"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"New York"	"36"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	75
+	"New York"	"36"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	98
+	"New York"	"36"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	78
+	"New York"	"36"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	100
+	"New York"	"36"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	141
+	"New York"	"36"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	123
+	"North Carolina"	"37"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"North Carolina"	"37"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"North Carolina"	"37"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"North Carolina"	"37"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"North Carolina"	"37"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"North Carolina"	"37"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"North Carolina"	"37"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"North Carolina"	"37"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"North Carolina"	"37"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"North Carolina"	"37"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"North Carolina"	"37"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	63
+	"North Carolina"	"37"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	76
+	"North Carolina"	"37"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"North Carolina"	"37"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"North Carolina"	"37"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"North Carolina"	"37"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"North Carolina"	"37"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"North Carolina"	"37"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"North Carolina"	"37"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"North Carolina"	"37"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"North Carolina"	"37"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"North Carolina"	"37"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"North Carolina"	"37"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"North Carolina"	"37"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	70
+	"North Carolina"	"37"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	61
+	"North Carolina"	"37"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"North Carolina"	"37"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"North Carolina"	"37"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"North Carolina"	"37"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"North Carolina"	"37"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"North Carolina"	"37"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"North Carolina"	"37"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"North Carolina"	"37"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"North Carolina"	"37"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"North Carolina"	"37"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"North Carolina"	"37"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"North Carolina"	"37"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"North Carolina"	"37"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	68
+	"North Carolina"	"37"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"North Carolina"	"37"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"North Carolina"	"37"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"North Carolina"	"37"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"North Carolina"	"37"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"North Carolina"	"37"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"North Carolina"	"37"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"North Carolina"	"37"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"North Carolina"	"37"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"North Carolina"	"37"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"North Carolina"	"37"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"North Carolina"	"37"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"North Carolina"	"37"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	48
+	"North Carolina"	"37"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	56
+	"North Carolina"	"37"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"North Carolina"	"37"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"North Carolina"	"37"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"North Carolina"	"37"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"North Carolina"	"37"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"North Carolina"	"37"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"North Carolina"	"37"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"North Carolina"	"37"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"North Carolina"	"37"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	57
+	"North Carolina"	"37"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"North Carolina"	"37"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"North Carolina"	"37"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	54
+	"North Carolina"	"37"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"North Carolina"	"37"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	64
+	"North Carolina"	"37"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Ohio"	"39"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Ohio"	"39"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Ohio"	"39"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Ohio"	"39"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Ohio"	"39"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"Ohio"	"39"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Ohio"	"39"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Ohio"	"39"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Ohio"	"39"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	90
+	"Ohio"	"39"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Ohio"	"39"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	66
+	"Ohio"	"39"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"Ohio"	"39"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	82
+	"Ohio"	"39"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	127
+	"Ohio"	"39"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	88
+	"Ohio"	"39"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Ohio"	"39"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Ohio"	"39"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Ohio"	"39"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	48
+	"Ohio"	"39"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Ohio"	"39"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"Ohio"	"39"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"Ohio"	"39"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"Ohio"	"39"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"Ohio"	"39"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	74
+	"Ohio"	"39"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	71
+	"Ohio"	"39"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	82
+	"Ohio"	"39"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	94
+	"Ohio"	"39"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"Ohio"	"39"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Ohio"	"39"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Ohio"	"39"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Ohio"	"39"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Ohio"	"39"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"Ohio"	"39"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	62
+	"Ohio"	"39"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	52
+	"Ohio"	"39"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	55
+	"Ohio"	"39"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	87
+	"Ohio"	"39"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	60
+	"Ohio"	"39"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	90
+	"Ohio"	"39"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Ohio"	"39"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Ohio"	"39"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Ohio"	"39"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Ohio"	"39"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Ohio"	"39"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Ohio"	"39"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Ohio"	"39"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Ohio"	"39"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Ohio"	"39"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	71
+	"Ohio"	"39"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	68
+	"Ohio"	"39"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Ohio"	"39"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	76
+	"Ohio"	"39"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	95
+	"Ohio"	"39"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	117
+	"Ohio"	"39"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	94
+	"Ohio"	"39"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Ohio"	"39"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Ohio"	"39"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Ohio"	"39"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Ohio"	"39"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Ohio"	"39"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Ohio"	"39"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	62
+	"Ohio"	"39"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Ohio"	"39"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	65
+	"Ohio"	"39"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"Ohio"	"39"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	76
+	"Ohio"	"39"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	78
+	"Ohio"	"39"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	77
+	"Ohio"	"39"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	115
+	"Ohio"	"39"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	84
+	"Oklahoma"	"40"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Oklahoma"	"40"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Oklahoma"	"40"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Oklahoma"	"40"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Oklahoma"	"40"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Oklahoma"	"40"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Oklahoma"	"40"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Oklahoma"	"40"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Oklahoma"	"40"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Oklahoma"	"40"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Oklahoma"	"40"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Oklahoma"	"40"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Oklahoma"	"40"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Oklahoma"	"40"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Oklahoma"	"40"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Oklahoma"	"40"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Oklahoma"	"40"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oklahoma"	"40"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Oklahoma"	"40"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Oklahoma"	"40"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Oklahoma"	"40"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Oklahoma"	"40"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Oklahoma"	"40"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Oklahoma"	"40"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Oklahoma"	"40"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Oklahoma"	"40"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Oklahoma"	"40"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Oklahoma"	"40"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Oklahoma"	"40"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Oklahoma"	"40"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Oklahoma"	"40"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Oklahoma"	"40"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Oklahoma"	"40"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oklahoma"	"40"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Oklahoma"	"40"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Oklahoma"	"40"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Oklahoma"	"40"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Oklahoma"	"40"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Oklahoma"	"40"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Oklahoma"	"40"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Oregon"	"41"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Oregon"	"41"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Oregon"	"41"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Oregon"	"41"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Oregon"	"41"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oregon"	"41"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Oregon"	"41"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Oregon"	"41"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Oregon"	"41"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Oregon"	"41"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Oregon"	"41"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oregon"	"41"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Oregon"	"41"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Oregon"	"41"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	48
+	"Oregon"	"41"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Oregon"	"41"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Oregon"	"41"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Oregon"	"41"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Oregon"	"41"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Oregon"	"41"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Oregon"	"41"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Oregon"	"41"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Oregon"	"41"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Oregon"	"41"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oregon"	"41"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Oregon"	"41"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Oregon"	"41"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Oregon"	"41"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Oregon"	"41"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Oregon"	"41"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Oregon"	"41"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	53
+	"Oregon"	"41"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Oregon"	"41"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Oregon"	"41"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Oregon"	"41"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Oregon"	"41"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oregon"	"41"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Oregon"	"41"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Oregon"	"41"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Oregon"	"41"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Oregon"	"41"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Pennsylvania"	"42"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Pennsylvania"	"42"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Pennsylvania"	"42"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Pennsylvania"	"42"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Pennsylvania"	"42"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	63
+	"Pennsylvania"	"42"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Pennsylvania"	"42"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	62
+	"Pennsylvania"	"42"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Pennsylvania"	"42"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	73
+	"Pennsylvania"	"42"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	60
+	"Pennsylvania"	"42"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	87
+	"Pennsylvania"	"42"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	107
+	"Pennsylvania"	"42"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	105
+	"Pennsylvania"	"42"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	136
+	"Pennsylvania"	"42"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	117
+	"Pennsylvania"	"42"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Pennsylvania"	"42"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Pennsylvania"	"42"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Pennsylvania"	"42"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Pennsylvania"	"42"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Pennsylvania"	"42"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Pennsylvania"	"42"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	73
+	"Pennsylvania"	"42"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	56
+	"Pennsylvania"	"42"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	65
+	"Pennsylvania"	"42"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	73
+	"Pennsylvania"	"42"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	85
+	"Pennsylvania"	"42"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	87
+	"Pennsylvania"	"42"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	81
+	"Pennsylvania"	"42"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	155
+	"Pennsylvania"	"42"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	118
+	"Pennsylvania"	"42"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Pennsylvania"	"42"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Pennsylvania"	"42"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Pennsylvania"	"42"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Pennsylvania"	"42"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"Pennsylvania"	"42"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"Pennsylvania"	"42"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Pennsylvania"	"42"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Pennsylvania"	"42"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	77
+	"Pennsylvania"	"42"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	70
+	"Pennsylvania"	"42"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	75
+	"Pennsylvania"	"42"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	86
+	"Pennsylvania"	"42"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	92
+	"Pennsylvania"	"42"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	136
+	"Pennsylvania"	"42"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	100
+	"Pennsylvania"	"42"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Pennsylvania"	"42"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Pennsylvania"	"42"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Pennsylvania"	"42"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Pennsylvania"	"42"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Pennsylvania"	"42"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Pennsylvania"	"42"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"Pennsylvania"	"42"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	81
+	"Pennsylvania"	"42"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	63
+	"Pennsylvania"	"42"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Pennsylvania"	"42"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	75
+	"Pennsylvania"	"42"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	103
+	"Pennsylvania"	"42"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	164
+	"Pennsylvania"	"42"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	116
+	"Pennsylvania"	"42"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Pennsylvania"	"42"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Pennsylvania"	"42"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Pennsylvania"	"42"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Pennsylvania"	"42"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Pennsylvania"	"42"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	57
+	"Pennsylvania"	"42"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Pennsylvania"	"42"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	67
+	"Pennsylvania"	"42"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	79
+	"Pennsylvania"	"42"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	97
+	"Pennsylvania"	"42"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	71
+	"Pennsylvania"	"42"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	98
+	"Pennsylvania"	"42"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	138
+	"Pennsylvania"	"42"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	117
+	"Rhode Island"	"44"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Rhode Island"	"44"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"South Carolina"	"45"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"South Carolina"	"45"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"South Carolina"	"45"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"South Carolina"	"45"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"South Carolina"	"45"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"South Carolina"	"45"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"South Carolina"	"45"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"South Carolina"	"45"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"South Carolina"	"45"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"South Carolina"	"45"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"South Carolina"	"45"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"South Carolina"	"45"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"South Carolina"	"45"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"South Carolina"	"45"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"South Carolina"	"45"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"South Carolina"	"45"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"South Carolina"	"45"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"South Carolina"	"45"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"South Carolina"	"45"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"South Carolina"	"45"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"South Carolina"	"45"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"South Carolina"	"45"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"South Carolina"	"45"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"South Carolina"	"45"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"South Carolina"	"45"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"South Carolina"	"45"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"South Carolina"	"45"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"South Carolina"	"45"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"South Carolina"	"45"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"South Carolina"	"45"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"South Carolina"	"45"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"South Carolina"	"45"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"South Carolina"	"45"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"South Carolina"	"45"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"South Carolina"	"45"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"South Carolina"	"45"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"South Carolina"	"45"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"South Carolina"	"45"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"South Carolina"	"45"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"South Carolina"	"45"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"South Carolina"	"45"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"South Carolina"	"45"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"South Carolina"	"45"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"South Carolina"	"45"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"South Carolina"	"45"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"South Carolina"	"45"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Tennessee"	"47"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Tennessee"	"47"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Tennessee"	"47"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Tennessee"	"47"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Tennessee"	"47"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Tennessee"	"47"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Tennessee"	"47"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Tennessee"	"47"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Tennessee"	"47"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Tennessee"	"47"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Tennessee"	"47"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Tennessee"	"47"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Tennessee"	"47"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Tennessee"	"47"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Tennessee"	"47"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Tennessee"	"47"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Tennessee"	"47"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Tennessee"	"47"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Tennessee"	"47"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Tennessee"	"47"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Tennessee"	"47"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Tennessee"	"47"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Tennessee"	"47"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Tennessee"	"47"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Tennessee"	"47"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Tennessee"	"47"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Tennessee"	"47"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Tennessee"	"47"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	47
+	"Tennessee"	"47"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Tennessee"	"47"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Tennessee"	"47"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Tennessee"	"47"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Tennessee"	"47"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Tennessee"	"47"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Tennessee"	"47"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Tennessee"	"47"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Tennessee"	"47"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Tennessee"	"47"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	17
+	"Tennessee"	"47"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Tennessee"	"47"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Tennessee"	"47"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Tennessee"	"47"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Tennessee"	"47"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Tennessee"	"47"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Tennessee"	"47"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Tennessee"	"47"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Tennessee"	"47"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Tennessee"	"47"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Tennessee"	"47"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Tennessee"	"47"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Tennessee"	"47"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Tennessee"	"47"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Tennessee"	"47"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Tennessee"	"47"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Tennessee"	"47"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Tennessee"	"47"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Tennessee"	"47"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	57
+	"Tennessee"	"47"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	52
+	"Tennessee"	"47"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Texas"	"48"	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Texas"	"48"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Texas"	"48"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Texas"	"48"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Texas"	"48"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	16
+	"Texas"	"48"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"Texas"	"48"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Texas"	"48"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"Texas"	"48"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Texas"	"48"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	27
+	"Texas"	"48"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	50
+	"Texas"	"48"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	68
+	"Texas"	"48"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	54
+	"Texas"	"48"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	78
+	"Texas"	"48"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"Texas"	"48"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"Texas"	"48"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	87
+	"Texas"	"48"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	24
+	"Texas"	"48"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	125
+	"Texas"	"48"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	96
+	"Texas"	"48"	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Texas"	"48"	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Texas"	"48"	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"Texas"	"48"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"Texas"	"48"	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Texas"	"48"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	74
+	"Texas"	"48"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"Texas"	"48"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	45
+	"Texas"	"48"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	63
+	"Texas"	"48"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"Texas"	"48"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	53
+	"Texas"	"48"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	27
+	"Texas"	"48"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	92
+	"Texas"	"48"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	17
+	"Texas"	"48"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	67
+	"Texas"	"48"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	93
+	"Texas"	"48"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"Texas"	"48"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	76
+	"Texas"	"48"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	80
+	"Texas"	"48"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	21
+	"Texas"	"48"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	106
+	"Texas"	"48"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Texas"	"48"	"2013"	"2013"	"50-54 years"	"50-54"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Texas"	"48"	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Texas"	"48"	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Texas"	"48"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Texas"	"48"	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Texas"	"48"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	52
+	"Texas"	"48"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	42
+	"Texas"	"48"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	26
+	"Texas"	"48"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Texas"	"48"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	62
+	"Texas"	"48"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	80
+	"Texas"	"48"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	83
+	"Texas"	"48"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	20
+	"Texas"	"48"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	92
+	"Texas"	"48"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	24
+	"Texas"	"48"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	82
+	"Texas"	"48"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Hispanic"	"2135-2"	25
+	"Texas"	"48"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	102
+	"Texas"	"48"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	16
+	"Texas"	"48"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	120
+	"Texas"	"48"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	26
+	"Texas"	"48"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	106
+	"Texas"	"48"	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Texas"	"48"	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Texas"	"48"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Hispanic"	"2135-2"	17
+	"Texas"	"48"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Texas"	"48"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Texas"	"48"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	25
+	"Texas"	"48"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Texas"	"48"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	46
+	"Texas"	"48"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	25
+	"Texas"	"48"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	60
+	"Texas"	"48"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	54
+	"Texas"	"48"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	79
+	"Texas"	"48"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Hispanic"	"2135-2"	17
+	"Texas"	"48"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"Texas"	"48"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	28
+	"Texas"	"48"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	85
+	"Texas"	"48"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	79
+	"Texas"	"48"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	96
+	"Texas"	"48"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	124
+	"Texas"	"48"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	29
+	"Texas"	"48"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	89
+	"Texas"	"48"	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Texas"	"48"	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Texas"	"48"	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Texas"	"48"	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Texas"	"48"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Hispanic"	"2135-2"	23
+	"Texas"	"48"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Texas"	"48"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	41
+	"Texas"	"48"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	75
+	"Texas"	"48"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Hispanic"	"2135-2"	18
+	"Texas"	"48"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Texas"	"48"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Hispanic"	"2135-2"	25
+	"Texas"	"48"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	83
+	"Texas"	"48"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	49
+	"Texas"	"48"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Hispanic"	"2135-2"	18
+	"Texas"	"48"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	78
+	"Texas"	"48"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Hispanic"	"2135-2"	22
+	"Texas"	"48"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	78
+	"Texas"	"48"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	81
+	"Texas"	"48"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Hispanic"	"2135-2"	23
+	"Texas"	"48"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	112
+	"Texas"	"48"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Hispanic"	"2135-2"	17
+	"Texas"	"48"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	81
+	"Utah"	"49"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Utah"	"49"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Utah"	"49"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Utah"	"49"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Utah"	"49"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Virginia"	"51"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Virginia"	"51"	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Virginia"	"51"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Virginia"	"51"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Virginia"	"51"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Virginia"	"51"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Virginia"	"51"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Virginia"	"51"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Virginia"	"51"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Virginia"	"51"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	31
+	"Virginia"	"51"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	46
+	"Virginia"	"51"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	62
+	"Virginia"	"51"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Virginia"	"51"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Virginia"	"51"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	34
+	"Virginia"	"51"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	37
+	"Virginia"	"51"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Virginia"	"51"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Virginia"	"51"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Virginia"	"51"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Virginia"	"51"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	40
+	"Virginia"	"51"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Virginia"	"51"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	51
+	"Virginia"	"51"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Virginia"	"51"	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Virginia"	"51"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Virginia"	"51"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Virginia"	"51"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Virginia"	"51"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Virginia"	"51"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Virginia"	"51"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Virginia"	"51"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Virginia"	"51"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	38
+	"Virginia"	"51"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Virginia"	"51"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	62
+	"Virginia"	"51"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"Virginia"	"51"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Virginia"	"51"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Virginia"	"51"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	23
+	"Virginia"	"51"	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Virginia"	"51"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Virginia"	"51"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Virginia"	"51"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	48
+	"Virginia"	"51"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Virginia"	"51"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Virginia"	"51"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Virginia"	"51"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Virginia"	"51"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	35
+	"Virginia"	"51"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Virginia"	"51"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Virginia"	"51"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Virginia"	"51"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Virginia"	"51"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Virginia"	"51"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Virginia"	"51"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Virginia"	"51"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Virginia"	"51"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	37
+	"Virginia"	"51"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Virginia"	"51"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Virginia"	"51"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	50
+	"Washington"	"53"	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Washington"	"53"	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Washington"	"53"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Washington"	"53"	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Washington"	"53"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Washington"	"53"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Washington"	"53"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	28
+	"Washington"	"53"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Washington"	"53"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	41
+	"Washington"	"53"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	33
+	"Washington"	"53"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Washington"	"53"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	58
+	"Washington"	"53"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Washington"	"53"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	25
+	"Washington"	"53"	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Washington"	"53"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Washington"	"53"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Washington"	"53"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Washington"	"53"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Washington"	"53"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Washington"	"53"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Washington"	"53"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	32
+	"Washington"	"53"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	43
+	"Washington"	"53"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Washington"	"53"	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Washington"	"53"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"Washington"	"53"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Washington"	"53"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Washington"	"53"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Washington"	"53"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Washington"	"53"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Washington"	"53"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	26
+	"Washington"	"53"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Washington"	"53"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	67
+	"Washington"	"53"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	56
+	"Washington"	"53"	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"Washington"	"53"	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"Washington"	"53"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	27
+	"Washington"	"53"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Washington"	"53"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Washington"	"53"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Washington"	"53"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	21
+	"Washington"	"53"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	39
+	"Washington"	"53"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	32
+	"Washington"	"53"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	40
+	"Washington"	"53"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	52
+	"Washington"	"53"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	54
+	"Washington"	"53"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Washington"	"53"	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Washington"	"53"	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Washington"	"53"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	36
+	"Washington"	"53"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	30
+	"Washington"	"53"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Washington"	"53"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	36
+	"Washington"	"53"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Washington"	"53"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	49
+	"Washington"	"53"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	56
+	"Washington"	"53"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	51
+	"West Virginia"	"54"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"West Virginia"	"54"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	18
+	"West Virginia"	"54"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"West Virginia"	"54"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"West Virginia"	"54"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	18
+	"West Virginia"	"54"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	16
+	"West Virginia"	"54"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	16
+	"Wisconsin"	"55"	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	17
+	"Wisconsin"	"55"	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Wisconsin"	"55"	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	24
+	"Wisconsin"	"55"	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Wisconsin"	"55"	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Wisconsin"	"55"	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Wisconsin"	"55"	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Wisconsin"	"55"	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Wisconsin"	"55"	"2011"	"2011"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	77
+	"Wisconsin"	"55"	"2011"	"2011"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Wisconsin"	"55"	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	20
+	"Wisconsin"	"55"	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	22
+	"Wisconsin"	"55"	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Wisconsin"	"55"	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	31
+	"Wisconsin"	"55"	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	29
+	"Wisconsin"	"55"	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Wisconsin"	"55"	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	39
+	"Wisconsin"	"55"	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	44
+	"Wisconsin"	"55"	"2012"	"2012"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"Wisconsin"	"55"	"2012"	"2012"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	53
+	"Wisconsin"	"55"	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	"Non-Hispanic"	"2186-5"	19
+	"Wisconsin"	"55"	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	26
+	"Wisconsin"	"55"	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Wisconsin"	"55"	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	29
+	"Wisconsin"	"55"	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	20
+	"Wisconsin"	"55"	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	42
+	"Wisconsin"	"55"	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	27
+	"Wisconsin"	"55"	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	43
+	"Wisconsin"	"55"	"2013"	"2013"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	65
+	"Wisconsin"	"55"	"2013"	"2013"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	45
+	"Wisconsin"	"55"	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Wisconsin"	"55"	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	"Non-Hispanic"	"2186-5"	24
+	"Wisconsin"	"55"	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Wisconsin"	"55"	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	21
+	"Wisconsin"	"55"	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	25
+	"Wisconsin"	"55"	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	34
+	"Wisconsin"	"55"	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	30
+	"Wisconsin"	"55"	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	33
+	"Wisconsin"	"55"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	47
+	"Wisconsin"	"55"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	64
+	"Wisconsin"	"55"	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	"Non-Hispanic"	"2186-5"	19
+	"Wisconsin"	"55"	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	"Non-Hispanic"	"2186-5"	22
+	"Wisconsin"	"55"	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Wisconsin"	"55"	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	"Non-Hispanic"	"2186-5"	28
+	"Wisconsin"	"55"	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	"Non-Hispanic"	"2186-5"	35
+	"Wisconsin"	"55"	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	"Non-Hispanic"	"2186-5"	23
+	"Wisconsin"	"55"	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	"Non-Hispanic"	"2186-5"	38
+	"Wisconsin"	"55"	"2015"	"2015"	"85+ years"	"85+"	"Female"	"F"	"Non-Hispanic"	"2186-5"	61
+	"Wisconsin"	"55"	"2015"	"2015"	"85+ years"	"85+"	"Male"	"M"	"Non-Hispanic"	"2186-5"	57
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Mortality"
+"Query Parameters:"
+"Age Group: 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years; 50-54 years; 55-59 years;"
+"60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years; 85+ years"
+"Cancer Sites: Non-Hodgkin Lymphoma"
+"Year: 2011; 2012; 2013; 2014; 2015"
+"Group By: State; Year; Age Group; Sex; Ethnicity"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancermort-v2021.html for more information."
+"---"
+"Query Date: Apr 28, 2025 3:13:55 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2024. Accessed at"
+"http://wonder.cdc.gov/cancermort-v2021.html on Apr 28, 2025 3:13:55 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/cancermort-v2021.html#Suppressed."
+"2. Age-adjusted rates are not available when results are grouped by age."
+"3. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"4. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
